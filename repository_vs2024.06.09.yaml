@@ -1,8 +1,8 @@
 ---
-- description: "VirusSign Collection 2024.06.09"
-  creation_date: "20/06/2024"
-  version: 1.0
-  traces:
+description: "VirusSign Collection 2024.06.09"
+creation_date: "20/06/2024"
+version: 1.0
+traces:
   - description: VirusSign Collection 2024.06.09
     infected_mac_address: 00:50:56:8c:8a:4a
     infected_ip_address: 192.168.1.52
