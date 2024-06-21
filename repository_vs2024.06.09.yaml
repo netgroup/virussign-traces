@@ -1,5 +1,6 @@
 ---
-description: "VirusSign Collection 2024.06.09"
+title: "VirusSign Collection 2024.06.09"
+description: "Collection downloaded from Vx Underground, filtered only to analyse PEs"
 creation_date: "20/06/2024"
 version: 1.0
 traces:
