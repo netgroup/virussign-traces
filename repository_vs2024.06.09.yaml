@@ -1,366 +1,4932 @@
----
-title: "VirusSign Collection 2024.06.09"
-description: "Collection downloaded from Vx Underground, filtered only to analyse PEs"
-creation_date: "20/06/2024"
-version: 1.0
-traces:
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2313
-    trace_generation_time: 1718628507.6613276
-    packets: 21
-    sha256: eb1f889637f6befa0c5f068d037ad8c9fc7376363f609a33bc9d116da19b9b7d
-    binary_date: 1717735508
-    trace_name: trojan.zusy/quzva
-    trace_uri: traces/virussign.com_5804edbdbb8ba927545470d3a50f25f9.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 20705
-    trace_generation_time: 1718628507.6613276
-    packets: 37
-    sha256: 7c377226a59018b8e1c3351f80052835450b34769edc53b7117e6567fe8a4449
-    binary_date: 1717993553
-    trace_name: trojan.vilsel/aems
-    trace_uri: traces/virussign.com_abf40f3d99acab5a03768bbed3c9f128.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2095
-    trace_generation_time: 1718628507.6613276
-    packets: 19
-    sha256: 9c6ea7af8eb2b8f3fd59670a772cb3b8151e6b7736888f7e8fcd92d73544a000
-    binary_date: 1717706498
-    trace_name: trojan.zusy
-    trace_uri: traces/virussign.com_7fcb618ba5a59a5c7f67ceeade530544.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2640
-    trace_generation_time: 1718628507.6653275
-    packets: 24
-    sha256: 5aa73e93a2eaa2d5f64834037f9b45553024445301d6a458cd77798e09481269
-    binary_date: 1717704936
-    trace_name: trojan.zusy/epcds
-    trace_uri: traces/virussign.com_4986802276440d069778f9f2ef9c6ba4.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2749
-    trace_generation_time: 1718628507.6813278
-    packets: 25
-    sha256: 3961343fb67d2abdead3858b9ed5eaf8b150028dcad87ded0721c71f79117413
-    binary_date: 1717968940
-    trace_name: trojan.zusy/pvgey
-    trace_uri: traces/virussign.com_1a0fafa20dcd53e49838de732f6cce0f.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2749
-    trace_generation_time: 1718628507.6813278
-    packets: 25
-    sha256: 7522d72ec8b0ec6d07b3d8da1faa8c632d9ceb33948fe5aad4a6d6c4f84db366
-    binary_date: 1717698396
-    trace_name: trojan.zusy
-    trace_uri: traces/virussign.com_7da779f9f0995e41308cd183f703a85d.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 5303619
-    trace_generation_time: 1718628507.6813278
-    packets: 29804
-    sha256: 7fa786cd9fa512f21274ceb0eadd105e5dab626f9f92a1b29bad806163c30bca
-    binary_date: 0
-    trace_name: Unknown
-    trace_uri: traces/virussign.com_6e1ad628df7d07e1d5dc127dfddd217b.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2640
-    trace_generation_time: 1718628507.6813278
-    packets: 24
-    sha256: b055f86253ab507952327c5d9af39de9903a3a178019b9f884a9a8b215f74e72
-    binary_date: 1717788758
-    trace_name: trojan.zusy
-    trace_uri: traces/virussign.com_586b2e6bd61ad080945955dae1a19e56.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 1664
-    trace_generation_time: 1718628507.6813278
-    packets: 20
-    sha256: a0182c8dfe67199028ca761b7523d51d1ab84aeadf423e5ee4687399f0eaadca
-    binary_date: 1716762884
-    trace_name: trojan.rifdoor/sbni
-    trace_uri: traces/virussign.com_86c914b80355a060953ac7426c23ae7a.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2640
-    trace_generation_time: 1718628507.6813278
-    packets: 24
-    sha256: 72ddbe7621d9e1a80b3658ea0bc106bfdd4e89ad600ffa531cb412e17a667ae3
-    binary_date: 1717730939
-    trace_name: downloader.zusy
-    trace_uri: traces/virussign.com_527e31c440f474af6a9c55b0aa6d75bc.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 17870
-    trace_generation_time: 1718628507.6813278
-    packets: 41
-    sha256: efd3767eabe80a038fbde821d912dc537cc34e33fd37f6e6bae3b7233d2dfa84
-    binary_date: 1717995915
-    trace_name: trojan.hlgxomb/drop
-    trace_uri: traces/virussign.com_b6d36c9276a4e3f3d85aef06ca3ed55e.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2749
-    trace_generation_time: 1718628507.6853278
-    packets: 25
-    sha256: b97a4b4274d6c4dca19c687c74697f412f41ed35f006ad92df38e8bb43f3a717
-    binary_date: 1717966335
-    trace_name: trojan.zusy/fxpkd
-    trace_uri: traces/virussign.com_3f9cd5b4a9c25748cdbc4234d314f39d.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 844
-    trace_generation_time: 1718628507.6853278
-    packets: 10
-    sha256: 19a5e6c68e184b50ab244b6cb01e054cad19d9445ee0dccbde8dd985d58babc1
-    binary_date: 1717916934
-    trace_name: trojan.agentb/dacic
-    trace_uri: traces/virussign.com_04a16747ea6e480b0a8c0ae1c1e87944.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 3647
-    trace_generation_time: 1718628507.6853278
-    packets: 39
-    sha256: 7e748423ea060b5cdf2cd19278b3b6da58480ecf8c0da21b670817416fa52c34
-    binary_date: 1717702326
-    trace_name: trojan.shiz/tdss
-    trace_uri: traces/virussign.com_125a11b031bd457bd7aba9cb02785bd2.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 1008230
-    trace_generation_time: 1718628507.6853278
-    packets: 2877
-    sha256: d61375b6def10107bb659c4b74e78b1ca6485d24c189c9c2c05bea7be9cbc4a1
-    binary_date: 1717791650
-    trace_name: virus.expiro/moiva
-    trace_uri: traces/virussign.com_170ebec05c82650637724311dc2b3f65.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 12870
-    trace_generation_time: 1718628507.6853278
-    packets: 94
-    sha256: 5b2492cdd814cd4ad2ad0f7d32433b314cc153c3e5db0787262e2fd5ecb9650d
-    binary_date: 1717787326
-    trace_name: trojan.dacic/suri
-    trace_uri: traces/virussign.com_af177146ef049d52898fc75ffe431d2f.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 649
-    trace_generation_time: 1718628507.6853278
-    packets: 5
-    sha256: 552088f784162ce9d45c84e10938b54864d043879d98e370f3ec9b73cdaadf0f
-    binary_date: 1717993650
-    trace_name: trojan.hlgxomb/drop
-    trace_uri: traces/virussign.com_5253a66f795374b762cc77716b022d47.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 4406183
-    trace_generation_time: 1718628507.6853278
-    packets: 2821
-    sha256: 97025cd153103205959012a39620cb9c96d5c6ea7e7a15025e9a0d45233450d3
-    binary_date: 1717907216
-    trace_name: miner.xmrminer
-    trace_uri: traces/virussign.com_24832e6534334dd5317b97a1e34d83e0.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 4687445
-    trace_generation_time: 1718628507.6853278
-    packets: 3204
-    sha256: a27e7f5dd1a63c9bbf2ab3f416bc54cee7c14b578a4f2405b6a4420cdc0ff3a8
-    binary_date: 1717925669
-    trace_name: miner.xmrminer
-    trace_uri: traces/virussign.com_078611755d10e68c06739a0faf9845e7.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 12728280
-    trace_generation_time: 1718628507.6893277
-    packets: 9067
-    sha256: 49831086fa8ad8d3f9f97aa8eea8d23900c13f4b74715f881c9b3e69b9829a50
-    binary_date: 1717997449
-    trace_name: trojan.flystudio/startpage1
-    trace_uri: traces/virussign.com_c75234cc73e771b204fdde321d2a40bf.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 4290798
-    trace_generation_time: 1718628507.6893277
-    packets: 3131
-    sha256: 1844547193001289f2493534e0c2e397d355f157e93e992f296f82f6b57468ed
-    binary_date: 1717907472
-    trace_name: miner.dacic/deepscan
-    trace_uri: traces/virussign.com_3c3fe29026da7c2ab62f7c6933816230.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 10745
-    trace_generation_time: 1718628507.6893277
-    packets: 74
-    sha256: d96e0f583b81c93bbe540f140f61c87a4af67351124b9bcd8634b8f756bb3e74
-    binary_date: 1717971454
-    trace_name: trojan.dacic/deepscan
-    trace_uri: traces/virussign.com_0d4a3bc0186df21ca4932971952eb7a1.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 3652851
-    trace_generation_time: 1718628507.693328
-    packets: 2670
-    sha256: aef74033d259df049593377b8be21ed1ee88e2425881526c003df97557dcf0a0
-    binary_date: 1717793535
-    trace_name: miner.dacic/deepscan
-    trace_uri: traces/virussign.com_04f49b1fdb3e7ba99a6621ddbfd19dfe.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 5660
-    trace_generation_time: 1718628507.693328
-    packets: 55
-    sha256: a43536321273b636a145ee8936d163c35070c071b43cebe953832ef75cd59a0e
-    binary_date: 1717935937
-    trace_name: trojan.shiz/tdss
-    trace_uri: traces/virussign.com_348f1bddc47cc1989207664e14469692.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2531
-    trace_generation_time: 1718628507.6973279
-    packets: 23
-    sha256: dcf66bdb11f1e6bd7d9876a8d4d733bad47875499ab4731111de50e7b1e37c4d
-    binary_date: 1717966650
-    trace_name: trojan.zusy/r03bc0df724
-    trace_uri: traces/virussign.com_23d0adf40f57d2623e65bdd61acb724c.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2749
-    trace_generation_time: 1718628507.6973279
-    packets: 25
-    sha256: ff031478bdd4791b4937641b57f2783e150481f3d5a5ab44a405108294e3aa67
-    binary_date: 1717954203
-    trace_name: trojan.zusy/r03bc0df724
-    trace_uri: traces/virussign.com_6e5f6adeac8ec084b7855b823b12b74a.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2422
-    trace_generation_time: 1718628507.6973279
-    packets: 22
-    sha256: 5f1f017c9fd215577b5399c691d8559ccf56606780de2772887ac49ef58fbdce
-    binary_date: 1717733768
-    trace_name: trojan.zusy/juajs
-    trace_uri: traces/virussign.com_066cb3dc07ed917ab9918dd18fe27870.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 130232
-    trace_generation_time: 1718628507.6973279
-    packets: 104
-    sha256: 01c04292be82df02cabb076950f8ce150eece95577741c504efa20d513d95cea
-    binary_date: 1717720800
-    trace_name: trojan.cryptolocker/upatre
-    trace_uri: traces/virussign.com_cdaa68079584b751564e446672d7bd90.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 4200589
-    trace_generation_time: 1718628507.6973279
-    packets: 3557
-    sha256: 20c98a7ffd49212627b29a46e76f9d85d3d2d382287c8df2ece198990c98e22d
-    binary_date: 1717988375
-    trace_name: miner.xmrminer
-    trace_uri: traces/virussign.com_6e2a7b7764aaaa43f197edc7b453fb98.pcap
-  - description: VirusSign Collection 2024.06.09
-    infected_mac_address: 00:50:56:8c:8a:4a
-    infected_ip_address: 192.168.1.52
-    gateway_mac_address: 00:50:56:8c:16:64
-    gateway_ip_address: 192.168.1.1
-    bytes: 2640
-    trace_generation_time: 1718628507.7013278
-    packets: 24
-    sha256: 8be9f386d3973a7e22fe879dd9490d29d4c257a6c9f7a1d0ad9b13ca67625554
-    binary_date: 1717985518
-    trace_name: trojan.zusy/ahudg
-    trace_uri: traces/virussign.com_72671a7150d3adb06dc1df8fbc52675c.pcap
+- binary_date: 1717898605.0
+  bytes: 528
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 4
+  sha256: 6d5746d1b4fbe200c934bd901954c5101db7bc25c0103b5c6e8e278c4b69c755
+  trace_generation_time: 1719521749.6539884
+  trace_name: trojan.deepscan/dialer
+  trace_uri: traces/virussign.com_29ea099e484dd17234ab63098b5ba6d0.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 63
+    suspicious: 0
+    undetected: 8
+  vt_popular_threat_category:
+  - count: 19
+    value: trojan
+  - count: 16
+    value: downloader
+- binary_date: 1717672661.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 4742c3049957270612624f673ce6a762cdaf012e694670a15f3c8d8e3d3abdca
+  trace_generation_time: 1719521634.9653735
+  trace_name: trojan.zusy/pmnlv
+  trace_uri: traces/virussign.com_037ee64116d8244e4b7399e5f5fe8b8b.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 54
+    suspicious: 0
+    undetected: 20
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 17
+    value: downloader
+- binary_date: 1717964567.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: f5149f0adb0fd5cc6e30a7dc686932c45d1368dff69b76f8650a0cfaf851f44c
+  trace_generation_time: 1719521781.886161
+  trace_name: trojan.zusy/r03bc0df724
+  trace_uri: traces/virussign.com_33c9864a1d2dafcdd86a956ac52bd3d8.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 38
+    suspicious: 0
+    undetected: 34
+  vt_popular_threat_category:
+  - count: 12
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717964929.0
+  bytes: 2095
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 19
+  sha256: 06571421ff41c0bc99fc43099a87cc8d850230b4b2b97634cb4efb448a2b1eeb
+  trace_generation_time: 1719521649.4374511
+  trace_name: trojan.zusy/nfccq
+  trace_uri: traces/virussign.com_0865da2e9d3e3c1dafc759ea2a6ce29f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 43
+    suspicious: 0
+    undetected: 29
+  vt_popular_threat_category:
+  - count: 15
+    value: trojan
+  - count: 8
+    value: downloader
+- binary_date: 1717699613.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 22
+  sha256: 4cf7885646e6012152a6623fb3001ff2cfb0a606852c19ed5327d513b283d4f3
+  trace_generation_time: 1719522088.7278054
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_795ef69ec9b747935edc46bacd7f9687.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 27
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717738287.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: c41b98abda1c6999de8617d8c27bba776eab1605a9c165f16fab9ed6e97dcc03
+  trace_generation_time: 1719521712.1417873
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_1d6b73e99eb8875676e4a45237f3bf4a.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717976740.0
+  bytes: 10603
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 77
+  sha256: 14daae75012746ca72becc987821133ed70eb8924c905ea8150650daed3b1fe2
+  trace_generation_time: 1719521750.7379942
+  trace_name: trojan.dacic/deepscan
+  trace_uri: traces/virussign.com_2a07603cff28464f703049dbf2fe8bb9.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717793151.0
+  bytes: 14144
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 75
+  sha256: 6a1ce8af18b7cff31c92399bc4125cb5a0b24e80855390564c3a9a1e58e63ed2
+  trace_generation_time: 1719521665.9735398
+  trace_name: trojan.snojan/corewarrior
+  trace_uri: traces/virussign.com_0d8cd9b0c3da02d535664646b7ea478a.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 16
+  vt_popular_threat_category:
+  - count: 14
+    value: trojan
+  - count: 3
+    value: downloader
+  - count: 2
+    value: banker
+- binary_date: 1717789391.0
+  bytes: 628
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 7
+  sha256: d74ab321a5c31a816749c2a041b43e5e13fb210aaff3f68d50ee994bedf55e2c
+  trace_generation_time: 1719521687.653656
+  trace_name: trojan.pornoasset/qqpass
+  trace_uri: traces/virussign.com_1573522cedaa4d648a63f5d4b4626ea5.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 28
+    value: trojan
+  - count: 2
+    value: ransomware
+- binary_date: 1717794652.0
+  bytes: 22967
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 111
+  sha256: 2ec5049f268789afb2c350939c0f9aadf69bf609d39ba36620bb3d0b39ada31d
+  trace_generation_time: 1719522069.1557004
+  trace_name: trojan.snojan/corewarrior
+  trace_uri: traces/virussign.com_706de487fc2178693bbfcc57b4f57c93.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 54
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 2
+    value: banker
+  - count: 2
+    value: downloader
+- binary_date: 1717895412.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 0c9e0468b6049bd27b72a5e62f87c93796dea1a6ddc6bda07f41089926b79304
+  trace_generation_time: 1719521757.754032
+  trace_name: trojan.zusy/jfwja
+  trace_uri: traces/virussign.com_2c35ee35a39fd84976fe7db3f70e4788.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 43
+    suspicious: 0
+    undetected: 29
+  vt_popular_threat_category:
+  - count: 15
+    value: trojan
+  - count: 9
+    value: downloader
+- binary_date: 1717738565.0
+  bytes: 844
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 10
+  sha256: d4963ddce27f06654195e4a988b5d2c4adc2d483e05c5c7345c1bd92a1033d3b
+  trace_generation_time: 1719521745.2099645
+  trace_name: trojan.agentb/bvip
+  trace_uri: traces/virussign.com_27e231d4af0cb1e59fb167a64fdf3377.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 63
+    suspicious: 0
+    undetected: 10
+  vt_popular_threat_category:
+  - count: 32
+    value: trojan
+- binary_date: 1717681845.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 20
+  sha256: e92ec3f9243648f66ea9168b7e0e599022a198ec7cf98f13220f5c304a6363ed
+  trace_generation_time: 1719521661.8095176
+  trace_name: downloader.zusy
+  trace_uri: traces/virussign.com_0bba56537258e112d8ddef6c9a8a793b.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 26
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 4
+    value: downloader
+  - count: 3
+    value: trojan
+- binary_date: 1717907216.0
+  bytes: 3072375
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 1895
+  sha256: 97025cd153103205959012a39620cb9c96d5c6ea7e7a15025e9a0d45233450d3
+  trace_generation_time: 1719521735.385912
+  trace_name: miner.xmrminer
+  trace_uri: traces/virussign.com_24832e6534334dd5317b97a1e34d83e0.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 16
+  vt_popular_threat_category:
+  - count: 24
+    value: miner
+  - count: 21
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717693622.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 50737112dd02a5b86d457404e15fbcc87bfb7c5ba76cfb1da46c35ecf6ae3bf0
+  trace_generation_time: 1719521786.7421873
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_35d5ff0e50af879b500e694c9ba57073.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 30
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717738714.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 24
+  sha256: 1e0a669fa3530773a5072fb74f4b340ca4135407261aa4f09a3ba0b73d67a435
+  trace_generation_time: 1719521762.5260575
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_2d5bbcff9e1e70404faed388b96216c3.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717969985.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 20
+  sha256: 514016e222ed2167705cfe30968d5428f8e2eaaf58046f123795c956ad7ed092
+  trace_generation_time: 1719522064.0796733
+  trace_name: trojan.zusy/r03bc0df724
+  trace_uri: traces/virussign.com_6e8e7be9c377ee4ad02d7e516fc0fed5.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 36
+    suspicious: 0
+    undetected: 34
+  vt_popular_threat_category:
+  - count: 10
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717905964.0
+  bytes: 2077767
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 4458
+  sha256: 382ff534e7776f85f0f272bd1d080e74104a00b021ca46775a7e5cdcd1798967
+  trace_generation_time: 1719522018.115427
+  trace_name: virus.expiro/moiva
+  trace_uri: traces/virussign.com_5cdaefe8c260ed4139671e70369ca6ed.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 16
+    value: virus
+  - count: 3
+    value: trojan
+- binary_date: 1717791914.0
+  bytes: 3590528
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2496
+  sha256: 5d2e8d3e7f193e6fc27aed4a0ec1cbc0e21e1eddfa79ab44184a174677403211
+  trace_generation_time: 1719521657.9134967
+  trace_name: miner.xmrminer
+  trace_uri: traces/virussign.com_0af9e6a85a5808d05f1f545ae0672399.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 26
+    value: miner
+  - count: 21
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717618509.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: adb23281b20a7fbff36f700baa97cb3aad656ce76b7f5854ab0d6c48a20ec723
+  trace_generation_time: 1719521639.6813989
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_050fede3d4f3472e4e526db50efb6593.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 28
+    suspicious: 0
+    undetected: 45
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 3
+    value: downloader
+- binary_date: 1717997449.0
+  bytes: 18016659
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 11972
+  sha256: 49831086fa8ad8d3f9f97aa8eea8d23900c13f4b74715f881c9b3e69b9829a50
+  trace_generation_time: 1719522224.668409
+  trace_name: trojan.flystudio/startpage1
+  trace_uri: traces/virussign.com_c75234cc73e771b204fdde321d2a40bf.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 51
+    suspicious: 0
+    undetected: 20
+  vt_popular_threat_category:
+  - count: 19
+    value: trojan
+  - count: 6
+    value: downloader
+  - count: 2
+    value: pua
+- binary_date: 1718022125.0
+  bytes: 3298785
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2089
+  sha256: 57b12a743856878c4d421d2752825d8e90b79856b020f12eec9b409ccf6ce52c
+  trace_generation_time: 1719521746.6419723
+  trace_name: miner.xmrminer
+  trace_uri: traces/virussign.com_28bbf8c3b2b1a6a82008314706c4540e.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 16
+  vt_popular_threat_category:
+  - count: 23
+    value: miner
+  - count: 21
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717793283.0
+  bytes: 21789
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 99
+  sha256: 6cb3445c810ba95bfa7cc1fb02f6d59ef30835a72edf244a42a7cb1eec3e25b6
+  trace_generation_time: 1719521691.3136756
+  trace_name: trojan.snojan/corewarrior
+  trace_uri: traces/virussign.com_1643117be0fd92ff4667b0517cc557e6.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 53
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 2
+    value: banker
+  - count: 2
+    value: downloader
+- binary_date: 1717708022.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 46c11156e0c87fb37489d8da47e768c49e4873508e21857ed2d774b2a81ddde1
+  trace_generation_time: 1719521703.673742
+  trace_name: trojan.zusy/sdum
+  trace_uri: traces/virussign.com_1b006891e0ac0d4a85d6f91245cfc69b.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 31
+    suspicious: 0
+    undetected: 42
+  vt_popular_threat_category:
+  - count: 8
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717687024.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: fe1731592b5636a7ef0bf4a4f38f656a07ec6cad24d0d87d5de550e247526a16
+  trace_generation_time: 1719521671.59757
+  trace_name: trojan.zusy/sdum
+  trace_uri: traces/virussign.com_0fd15e9db88ae1dfbb0236bbfa6153b6.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 28
+    suspicious: 0
+    undetected: 45
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717736617.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 21
+  sha256: 3f7d6c77a69a96b00d45275a4aeee545d7e9f533e1552105b55d8873f682698b
+  trace_generation_time: 1719521946.1830416
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_440fdec8c4908784fcec5382096e68b2.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 30
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717966054.0
+  bytes: 3649296
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2073
+  sha256: 78fa5bce3a902cc0d226d78f61d38ba9d08dc1f9327b9f9c3831825c4baa154a
+  trace_generation_time: 1719521733.8179035
+  trace_name: miner.dacic/deepscan
+  trace_uri: traces/virussign.com_242281bf0994ad7fb87c0dbc3ac2bc5f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 29
+    value: miner
+  - count: 14
+    value: trojan
+  - count: 5
+    value: pua
+- binary_date: 1717742926.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 2f00ad5b9c3cedc3c91c032fdff83fcd02bf76912aecbead882900c14da7ec3f
+  trace_generation_time: 1719521755.2460184
+  trace_name: trojan.zusy/r002c0df724
+  trace_uri: traces/virussign.com_2b97ab0416f75412ffccea64e1f3bc30.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 44
+    suspicious: 0
+    undetected: 24
+  vt_popular_threat_category:
+  - count: 17
+    value: trojan
+  - count: 13
+    value: downloader
+- binary_date: 1717733768.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 5f1f017c9fd215577b5399c691d8559ccf56606780de2772887ac49ef58fbdce
+  trace_generation_time: 1719521643.241418
+  trace_name: trojan.zusy/juajs
+  trace_uri: traces/virussign.com_066cb3dc07ed917ab9918dd18fe27870.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 48
+    suspicious: 0
+    undetected: 23
+  vt_popular_threat_category:
+  - count: 18
+    value: trojan
+  - count: 14
+    value: downloader
+- binary_date: 1498313161.0
+  bytes: 316
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2
+  sha256: 549f268e06a84a0e176a7ddc30cd85892fecebd4497812ff64ffc2188f1e6375
+  trace_generation_time: 1719521638.1213906
+  trace_name: trojan.webtoolbar/snobar
+  trace_uri: traces/virussign.com_049e153e113acb6ca3a1bf150accb09f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 34
+    suspicious: 0
+    undetected: 38
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 2
+    value: pua
+  - count: 2
+    value: virus
+- binary_date: 1717690861.0
+  bytes: 2749
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 25
+  sha256: 331f69e54854a1fe41f328f21c1007c39a2baf1f49420d5f502006febb322e36
+  trace_generation_time: 1719521774.8701236
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_3123d6ea786195f0069effce061c3236.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 26
+    suspicious: 0
+    undetected: 47
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717808237.0
+  bytes: 108753
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 780
+  sha256: 63ae048ca0c3b037699539580d4a091980179a89543171b9df183afa233776b4
+  trace_generation_time: 1719522259.3565614
+  trace_name: trojan.hematite/agentb
+  trace_uri: traces/virussign.com_dddff1d936ea9ff3a31f433cda405fba.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 23
+    value: trojan
+  - count: 12
+    value: miner
+  - count: 2
+    value: banker
+- binary_date: 1717613490.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 033185e6df627252e5c6dc07583e347c6c6cc921dd06c2edb8dfd9da78f8bf41
+  trace_generation_time: 1719521777.3341367
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_31b8490cbaccff921ed95a9f86b74245.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 30
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717966650.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: dcf66bdb11f1e6bd7d9876a8d4d733bad47875499ab4731111de50e7b1e37c4d
+  trace_generation_time: 1719521732.7018976
+  trace_name: trojan.zusy/r03bc0df724
+  trace_uri: traces/virussign.com_23d0adf40f57d2623e65bdd61acb724c.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 19
+    value: downloader
+- binary_date: 1717789280.0
+  bytes: 14368
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 88
+  sha256: baf6b6dddb6c8c9c811feff2072a56eb140f3a9ee2e52ba19642818d22fd9834
+  trace_generation_time: 1719521632.1573586
+  trace_name: trojan.xworm/msil
+  trace_uri: traces/virussign.com_027990b544d8a2576a9c2f6345907dc5.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 27
+    value: trojan
+- binary_date: 1717987875.0
+  bytes: 2749
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 25
+  sha256: 230dbc7315c33c02304ec46b3ae81961f79d24f6ee04fa3cd1322db5ec9fa666
+  trace_generation_time: 1719521653.9454753
+  trace_name: trojan.zusy/icknh
+  trace_uri: traces/virussign.com_0a7f05e1cecab9aa0b9c6824732f564d.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 40
+    suspicious: 0
+    undetected: 32
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717704186.0
+  bytes: 844
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 10
+  sha256: db12ac847bc2d8080aa5c3f671b2b1780653f22ea58659f886c950e05115ddd7
+  trace_generation_time: 1719521631.869357
+  trace_name: trojan.agentb/bvip
+  trace_uri: traces/virussign.com_0270d43ec938cfa11e1196309de91947.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 62
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 31
+    value: trojan
+- binary_date: 1717993650.0
+  bytes: 18039
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 43
+  sha256: 552088f784162ce9d45c84e10938b54864d043879d98e370f3ec9b73cdaadf0f
+  trace_generation_time: 1719521982.5712366
+  trace_name: trojan.hlgxomb/drop
+  trace_uri: traces/virussign.com_5253a66f795374b762cc77716b022d47.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 28
+    value: trojan
+  - count: 10
+    value: downloader
+  - count: 6
+    value: dropper
+- binary_date: 1717789334.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 24
+  sha256: d4398ccf206c1b85980a9168be618b6dcd4bb1c8c58eacf9c88fc9a8c8b47167
+  trace_generation_time: 1719521985.463252
+  trace_name: trojan.zusy/hfpiq
+  trace_uri: traces/virussign.com_53d1eb9f3a17576184a8ebdc8b07dbd2.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 46
+    suspicious: 0
+    undetected: 24
+  vt_popular_threat_category:
+  - count: 18
+    value: trojan
+  - count: 14
+    value: downloader
+- binary_date: 1717883111.0
+  bytes: 6150751
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2903
+  sha256: 6ba57b9d24540a7a33523e234eb386663b77986e0351fb26dba9964a70800bfe
+  trace_generation_time: 1719521786.3781853
+  trace_name: adware.tencent
+  trace_uri: traces/virussign.com_3564517fcb49ab1824dbf703d3e73c4f.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 8
+    suspicious: 0
+    undetected: 63
+  vt_popular_threat_category:
+  - count: 3
+    value: adware
+- binary_date: 1717865754.0
+  bytes: 2812
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 34
+  sha256: 4b358f051e3017a53a4c6f72dc065a1ecf6e86dcdd367e30625a575179c1174a
+  trace_generation_time: 1719521743.5379555
+  trace_name: trojan.banload/abipe
+  trace_uri: traces/virussign.com_27a5a2395602672f765c43c520f83df6.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 63
+    suspicious: 0
+    undetected: 9
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 15
+    value: miner
+  - count: 4
+    value: downloader
+- binary_date: 1717742439.0
+  bytes: 77723
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 83
+  sha256: eddccc8d0b53589906defe730a8f30a2ccdc0da0b3c72d3eaef1c9d55687cbcc
+  trace_generation_time: 1719521782.434164
+  trace_name: trojan.zusy/injuke
+  trace_uri: traces/virussign.com_340763ec7471dbb7ea5f994b93ad9edc.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 47
+    suspicious: 0
+    undetected: 23
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+- binary_date: 1717793223.0
+  bytes: 238
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 2
+  sha256: 4cb0116df33a0bfa34a9a0c291465affb39481887efc21a185e971a33e1dfe45
+  trace_generation_time: 1719522270.0846086
+  trace_name: trojan.vobfus/chinky
+  trace_uri: traces/virussign.com_e5e20aa549ec6ae2215bd2ee92ad8cb9.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 65
+    suspicious: 0
+    undetected: 7
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 15
+    value: worm
+- binary_date: 1717930835.0
+  bytes: 9942
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 82
+  sha256: 4d1808639dd088b4350e1985b228f1337519b1e484204023eec7bdfbe5a5f13f
+  trace_generation_time: 1719521715.261804
+  trace_name: trojan.dacic/deepscan
+  trace_uri: traces/virussign.com_1e4886aae29fdc8b4b3e2e393e2d1269.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 8
+    value: dropper
+- binary_date: 1717791650.0
+  bytes: 1235404
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 3696
+  sha256: d61375b6def10107bb659c4b74e78b1ca6485d24c189c9c2c05bea7be9cbc4a1
+  trace_generation_time: 1719521692.3256812
+  trace_name: virus.expiro/moiva
+  trace_uri: traces/virussign.com_170ebec05c82650637724311dc2b3f65.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 50
+    suspicious: 0
+    undetected: 22
+  vt_popular_threat_category:
+  - count: 15
+    value: virus
+  - count: 4
+    value: trojan
+- binary_date: 1717738480.0
+  bytes: 19338
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 96
+  sha256: c18dfa16f4b3c96e877661364a9e3d4f5b3f6a0b1289223ba5cc0806a4097945
+  trace_generation_time: 1719522107.3638947
+  trace_name: trojan.snojan/corewarrior
+  trace_uri: traces/virussign.com_7fe870a41a7507c9cbc7b2d6ba6e8912.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 53
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 12
+    value: trojan
+  - count: 3
+    value: downloader
+  - count: 2
+    value: banker
+- binary_date: 1717715887.0
+  bytes: 2858
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 26
+  sha256: a39fb18a96ab461a96b378296a82ddd1c0fff5c346c8bd97aeb7c38b3fd12280
+  trace_generation_time: 1719521675.7735925
+  trace_name: trojan.zusy/mifry
+  trace_uri: traces/virussign.com_1172e5193fa84e2ea6868cc43a12375d.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 57
+    suspicious: 0
+    undetected: 16
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 18
+    value: downloader
+- binary_date: 1717696839.0
+  bytes: 2095
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 19
+  sha256: addf850e0662d9c6a8b1ae333edb4466d448e0f65307466004534ec282f0c28a
+  trace_generation_time: 1719521775.694128
+  trace_name: trojan.zusy/sdum
+  trace_uri: traces/virussign.com_318437177a074250cf81ad9a1f74696c.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 54
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 16
+    value: downloader
+- binary_date: 1717703849.0
+  bytes: 9875
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 97
+  sha256: ca1bb1d2cb46f68856f8e6bc6404cca1847075af38f3312695be55627128298e
+  trace_generation_time: 1719521667.1615462
+  trace_name: trojan.shiz/midie
+  trace_uri: traces/virussign.com_0dcea3efb5a187252ffb61845b4adc10.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 26
+    value: trojan
+  - count: 3
+    value: dropper
+  - count: 2
+    value: pua
+- binary_date: 1717741096.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 20
+  sha256: a7252a17aa07764f5538555779832f6e15ae6254d3223a9620701d9fe1e488a6
+  trace_generation_time: 1719521760.050044
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_2ca137a1e6e6b0a1b0861ec76e0017cd.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717995943.0
+  bytes: 25563
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 49
+  sha256: 36ee6a9a8811cd63ea8fd4b3bd199f9ac49c89044af2c9c2121af3ad575dcf56
+  trace_generation_time: 1719521758.2540345
+  trace_name: trojan.pincav/muldrop3
+  trace_uri: traces/virussign.com_2c720a05a626a654c8c49429ed75baf1.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 13
+  vt_popular_threat_category:
+  - count: 30
+    value: trojan
+  - count: 9
+    value: downloader
+  - count: 5
+    value: dropper
+- binary_date: 1717702326.0
+  bytes: 6806
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 47
+  sha256: 7e748423ea060b5cdf2cd19278b3b6da58480ecf8c0da21b670817416fa52c34
+  trace_generation_time: 1719521677.9576042
+  trace_name: trojan.shiz/tdss
+  trace_uri: traces/virussign.com_125a11b031bd457bd7aba9cb02785bd2.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 62
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 25
+    value: trojan
+  - count: 2
+    value: pua
+  - count: 2
+    value: spyware
+- binary_date: 1717791708.0
+  bytes: 287559
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 1020
+  sha256: 1a306f3f2b114b9f5f55f469c3952790c718da5f558227ac2bab002218d704b3
+  trace_generation_time: 1719522311.8367925
+  trace_name: trojan.upatre/zbot
+  trace_uri: traces/virussign.com_ffe772e5a8486b3cea2539582db63456.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 62
+    suspicious: 0
+    undetected: 9
+  vt_popular_threat_category:
+  - count: 33
+    value: trojan
+  - count: 14
+    value: downloader
+- binary_date: 1717735562.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 8d85dbf16cce6f92638d0ed3bc3022abb275ea01ab127e4e10f9789b21dfd408
+  trace_generation_time: 1719521728.7898765
+  trace_name: trojan.zusy/otydp
+  trace_uri: traces/virussign.com_228e0c03d3f9241273bbcd48fb8909de.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 17
+    value: downloader
+- binary_date: 1717726831.0
+  bytes: 1986
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 18
+  sha256: 49e22cb6f1a5b40bdb2f8d7961fbe0617b0501efdbf43a2df18b996f06ff34a5
+  trace_generation_time: 1719521773.278115
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_307a68e28c1b79f829cec624ced6019e.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 27
+    suspicious: 0
+    undetected: 46
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717968993.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: d5b2ee2e0a7a3f2aeb735b19755b7edbc3c99d047394cf3825823c0248eebc94
+  trace_generation_time: 1719521667.3775475
+  trace_name: trojan.zusy/fbuay
+  trace_uri: traces/virussign.com_0e1effa803ad354c13a43eedb395cb07.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 38
+    suspicious: 0
+    undetected: 34
+  vt_popular_threat_category:
+  - count: 12
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717765319.0
+  bytes: 502
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 4
+  sha256: 78809b28d5d0c73ee2cc27367bced7b337f0825817f149268b99586bb1a08ee0
+  trace_generation_time: 1719521631.6693559
+  trace_name: trojan.pincav/download
+  trace_uri: traces/virussign.com_026aec70d7410ff79c18d606734cdb8f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 33
+    value: trojan
+  - count: 7
+    value: downloader
+  - count: 3
+    value: dropper
+- binary_date: 1717726831.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 24
+  sha256: 49e22cb6f1a5b40bdb2f8d7961fbe0617b0501efdbf43a2df18b996f06ff34a5
+  trace_generation_time: 1719521772.9901135
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_307a68e28c1b79f829cec624ced6019e.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 27
+    suspicious: 0
+    undetected: 46
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717907190.0
+  bytes: 1986
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 18
+  sha256: 8e07fb3a0ab8811a5dfd57e20543af435aed5c1bab2175bf9ec3be3db9e56146
+  trace_generation_time: 1719521646.1374335
+  trace_name: trojan.zusy/r03bc0df624
+  trace_uri: traces/virussign.com_07b77830523f4c9a6cd0cfbb3881412b.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 41
+    suspicious: 0
+    undetected: 30
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 8
+    value: downloader
+- binary_date: 1717634458.0
+  bytes: 432
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 3
+  sha256: 12ad4292f86d40424e3cf64797bf902b08d4b0c4409a1110d527361a7b7a05ee
+  trace_generation_time: 1719521705.369751
+  trace_name: trojan.virut
+  trace_uri: traces/virussign.com_1b7473ec547eefedc2db4644188f1164.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 25
+    suspicious: 0
+    undetected: 47
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+- binary_date: 1717709551.0
+  bytes: 2749
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 25
+  sha256: 4180d4d82abd79db9dd946567be5b669e1701e952e215132270683f18f8c15ce
+  trace_generation_time: 1719522047.8195863
+  trace_name: trojan.zusy/nfbzm
+  trace_uri: traces/virussign.com_689df7676f0d117d2b55f30d3bb42a2f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 22
+    value: trojan
+  - count: 16
+    value: downloader
+- binary_date: 1717927125.0
+  bytes: 3694269
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2351
+  sha256: e28d32eb5ecf3e23cf180f1d3a35153f8bff5af019b73a267a8f3d5afed99645
+  trace_generation_time: 1719521672.5895753
+  trace_name: miner.xmrminer
+  trace_uri: traces/virussign.com_1047d24158544edc28ec7ce135e1f364.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 25
+    value: miner
+  - count: 22
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717629128.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 3629eb1f3ec4052e7dcf2ea06dcf1fe8ba607a95fcae86c44e61e2bc330ab40b
+  trace_generation_time: 1719521625.2013214
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_00679d5663605803a1c9deadaf486e54.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 30
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 3
+    value: downloader
+- binary_date: 1717787326.0
+  bytes: 11340
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 84
+  sha256: 5b2492cdd814cd4ad2ad0f7d32433b314cc153c3e5db0787262e2fd5ecb9650d
+  trace_generation_time: 1719522186.9282434
+  trace_name: trojan.dacic/suri
+  trace_uri: traces/virussign.com_af177146ef049d52898fc75ffe431d2f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 27
+    value: trojan
+  - count: 7
+    value: downloader
+  - count: 2
+    value: dropper
+- binary_date: 1717736415.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 20
+  sha256: 2f1297f6491ef37e82caab77ad565d53fe11b77a8d6f0d5b4ce4e3dda2ddaa5e
+  trace_generation_time: 1719521686.5056498
+  trace_name: downloader.zusy/bjbrn
+  trace_uri: traces/virussign.com_152cf6d7dcb81340e78cf73f87072645.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 53
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 18
+    value: downloader
+  - count: 18
+    value: trojan
+- binary_date: 1717902149.0
+  bytes: 1104
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 8
+  sha256: e46d7c0ef3b8f44d17e5f391e53fdc992c9125e9a99b8c709d623ff865dac21b
+  trace_generation_time: 1719522212.364355
+  trace_name: trojan.qqpass/scar
+  trace_uri: traces/virussign.com_bf9fca4cd65d1d0e6e242733650f7783.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 30
+    value: trojan
+- binary_date: 1717899073.0
+  bytes: 3597770
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2488
+  sha256: 921b3d54d636bc48f88a63bace863e0903ec2eac1cf427f8b0c062a1d2dfecc9
+  trace_generation_time: 1719521674.765587
+  trace_name: miner.xmrminer
+  trace_uri: traces/virussign.com_11202fbc5a47fd5698d0b94937d523cf.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 24
+    value: miner
+  - count: 22
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717789601.0
+  bytes: 1042108
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 11327
+  sha256: e320d7e93e8852f68faf535154104d72bd7258a3f836b89e4a9d47144cab0326
+  trace_generation_time: 1719521961.1191216
+  trace_name: trojan.zusy/upatre
+  trace_uri: traces/virussign.com_4968e600f22ab116dc1272ae21c8bdc4.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 13
+  vt_popular_threat_category:
+  - count: 26
+    value: trojan
+  - count: 3
+    value: downloader
+- binary_date: 1717691795.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 23
+  sha256: 73f398cb96177719101f890cbfa56a758897949fed47217b1e94a4e1b05d4fe0
+  trace_generation_time: 1719522101.2078679
+  trace_name: trojan.zusy/bvrec
+  trace_uri: traces/virussign.com_7d687db1fe19c9dd07ce351edbbe820b.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 22
+    value: trojan
+  - count: 18
+    value: downloader
+- binary_date: 1717966262.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 13ec4a5b8d52d11f0171abb870bea8d9ec5a6d7b54e55918355abc042078bfcd
+  trace_generation_time: 1719521638.7133937
+  trace_name: trojan.zusy/bzyig
+  trace_uri: traces/virussign.com_04a83037971169dd8ed8a6a269fd8db5.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 38
+    suspicious: 0
+    undetected: 33
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717717671.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 20
+  sha256: 395d783436eb2d9ac60d26b19435e0b3ec58db93495c649111601e415aa9745b
+  trace_generation_time: 1719521921.0109067
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_3a8578b4a0f9aa0fe5aa59096bc75128.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717694396.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: d0f7718a97fdf8b527be772c56c85a5fd45c2ec2c0ded5b62cab929743479e38
+  trace_generation_time: 1719521716.3338099
+  trace_name: trojan.zusy/gcpop
+  trace_uri: traces/virussign.com_1f5985ca60835d89d4adbc243041d5ae.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 57
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 17
+    value: downloader
+- binary_date: 1717739859.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 6717458d5b67c17ca5612a1445bcecc2a07f543e31640833a9dcfbdca3586d76
+  trace_generation_time: 1719521718.6938224
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_2005391c515c4db96bc7e876aa302b42.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 31
+    suspicious: 0
+    undetected: 42
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717971454.0
+  bytes: 10781
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 73
+  sha256: d96e0f583b81c93bbe540f140f61c87a4af67351124b9bcd8634b8f756bb3e74
+  trace_generation_time: 1719521665.4815373
+  trace_name: trojan.dacic/deepscan
+  trace_uri: traces/virussign.com_0d4a3bc0186df21ca4932971952eb7a1.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717995943.0
+  bytes: 654
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 5
+  sha256: 36ee6a9a8811cd63ea8fd4b3bd199f9ac49c89044af2c9c2121af3ad575dcf56
+  trace_generation_time: 1719521759.2220397
+  trace_name: trojan.pincav/muldrop3
+  trace_uri: traces/virussign.com_2c720a05a626a654c8c49429ed75baf1.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 13
+  vt_popular_threat_category:
+  - count: 30
+    value: trojan
+  - count: 9
+    value: downloader
+  - count: 5
+    value: dropper
+- binary_date: 1717709884.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 20
+  sha256: ba70d89e5e2156a4f0567ee331c3eec81e98cef19271ac3d26cd7efde8661f26
+  trace_generation_time: 1719521908.198838
+  trace_name: trojan.zusy/qdeql
+  trace_uri: traces/virussign.com_36b08500442c2b346e9d8c0aa3321d61.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 15
+    value: downloader
+- binary_date: 1717964741.0
+  bytes: 100
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 1
+  sha256: 9b91a05e2dfa295625b67bfa2ca8d798fa044192a34e690dca5b6f77b5dbfee6
+  trace_generation_time: 1719521684.6016397
+  trace_name: trojan.ipamor/backdoor2
+  trace_uri: traces/virussign.com_14e0b624dacc9b6a0a713312c807e677.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 25
+    value: trojan
+  - count: 2
+    value: virus
+- binary_date: 1717090698.0
+  bytes: 8958
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 97
+  sha256: 4c3f2d6a63bc9cf0be48e9104ad19ce8e2cd0bb23ffbf09df372fe319c3e7d61
+  trace_generation_time: 1719521630.373349
+  trace_name: trojan.msil/jalapeno
+  trace_uri: traces/virussign.com_01f366c42374a03bae43a5bf9c4ce11a.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 23
+    suspicious: 0
+    undetected: 23
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+- binary_date: 1717696520.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 20
+  sha256: f4c68eb1a4660c82c51a370fb4261ba31dc3a53151533854c1ef789a0ac9f03c
+  trace_generation_time: 1719521706.6097577
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_1ba9ad127056cc020bc996177eecbf0c.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717720800.0
+  bytes: 226651
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 154
+  sha256: 01c04292be82df02cabb076950f8ce150eece95577741c504efa20d513d95cea
+  trace_generation_time: 1719522237.1604638
+  trace_name: trojan.cryptolocker/upatre
+  trace_uri: traces/virussign.com_cdaa68079584b751564e446672d7bd90.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 69
+    suspicious: 0
+    undetected: 3
+  vt_popular_threat_category:
+  - count: 39
+    value: trojan
+  - count: 9
+    value: downloader
+  - count: 6
+    value: ransomware
+- binary_date: 1717728012.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 2483466568e2fe5a7bc0aeb1f3779e14734679dc5dbeab1fbc7d22039b3676d6
+  trace_generation_time: 1719521655.2654824
+  trace_name: trojan.zusy/pgcze
+  trace_uri: traces/virussign.com_0ad979ff3bcb079a519e465e3dd71005.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 18
+    value: downloader
+- binary_date: 1717808244.0
+  bytes: 3453295
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2251
+  sha256: 2454440761eaa1300a9e4b9d8fb4ef0741dc4d164599606bae5751ad782faf2e
+  trace_generation_time: 1719521721.593838
+  trace_name: miner.xmrminer
+  trace_uri: traces/virussign.com_2045b839cd0d3945390ae50a27226fb4.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 54
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 24
+    value: miner
+  - count: 21
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717611865.0
+  bytes: 36293
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 276
+  sha256: e007cb15d608d64545115ec9ff98c6623aef8e40e85efce7605901829e3307b4
+  trace_generation_time: 1719522276.972639
+  trace_name: trojan.genie/ulpm
+  trace_uri: traces/virussign.com_e9437d6cbcb213bb9922179026cb0829.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 26
+    value: trojan
+  - count: 2
+    value: dropper
+- binary_date: 1717741099.0
+  bytes: 2095
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 19
+  sha256: f447335112ecf966303f613e8d010f88acdd00e82ca5b35313ed6b33c620fb8c
+  trace_generation_time: 1719521708.377767
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_1c73fce86de4a00d8f8b4bf0da7d7b94.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717806420.0
+  bytes: 266094
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 2987
+  sha256: 7d64ffdc2a04ca4752730c0a2bcd7ef7494595909dd978669067051823019bee
+  trace_generation_time: 1719522309.5647824
+  trace_name: trojan.flystudio
+  trace_uri: traces/virussign.com_fea6a50fc0136c43c531a9110aaff16f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 37
+    suspicious: 0
+    undetected: 35
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 2
+    value: pua
+- binary_date: 1717731097.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 9df8581c97815e1fe379316eee6b2c0cb750357eb73b8ee0ea9c3f302f90b0c9
+  trace_generation_time: 1719521641.2294073
+  trace_name: trojan.zusy/sdum
+  trace_uri: traces/virussign.com_057ac66217a47e22f9a48fa4d8b7e8fd.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1718032628.0
+  bytes: 3061648
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2749
+  sha256: 9c6d4328e7255a6f32933725003e1b7a5dd6ac14e787df00ed9c43ad48534998
+  trace_generation_time: 1719521692.9816847
+  trace_name: hacktool.connectwise
+  trace_uri: traces/virussign.com_17854df6be2802d9a38d63e55aa3be74.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 21
+    suspicious: 0
+    undetected: 53
+  vt_popular_threat_category:
+  - count: 5
+    value: hacktool
+  - count: 4
+    value: pua
+  - count: 2
+    value: trojan
+- binary_date: 1717902727.0
+  bytes: 4344199
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2819
+  sha256: 0f41d67bb983301a6eabaa35a0d16d0b93ccac84d3a2ebd30c6aeae2ab523eed
+  trace_generation_time: 1719521740.64594
+  trace_name: miner.xmrminer
+  trace_uri: traces/virussign.com_26a7514907fe6998bedbb7032704590c.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 23
+    value: miner
+  - count: 21
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717994599.0
+  bytes: 87428
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 663
+  sha256: 6c1217131267ca839cfe43cb41846aa7a3a25af06e2529e2633ab92fc3e07aec
+  trace_generation_time: 1719522308.536778
+  trace_name: trojan.hupigon/aaah
+  trace_uri: traces/virussign.com_fd895a59a595514ca728a6ce7071bf58.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 65
+    suspicious: 0
+    undetected: 7
+  vt_popular_threat_category:
+  - count: 36
+    value: trojan
+  - count: 3
+    value: dropper
+- binary_date: 1717681076.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: b8be13f6f22a5875a51ffeb9480ee5e7e3f72f7184680bba395f2c6b4117f9ef
+  trace_generation_time: 1719521660.9975133
+  trace_name: trojan.zusy/julxj
+  trace_uri: traces/virussign.com_0b2ee921e3025220c1fa364239624b08.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 57
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 22
+    value: trojan
+  - count: 17
+    value: downloader
+- binary_date: 0
+  bytes: 112417
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 299
+  sha256: f2130da055913385a0e198a256bc33b74fae1f5a5145a3f8d5cfef8367242128
+  trace_generation_time: 1719521676.5815966
+  trace_name: Unknown
+  trace_uri: traces/virussign.com_11b602eb199855510615045d480beb3f.pcap
+- binary_date: 1717964741.0
+  bytes: 100
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 1
+  sha256: 9b91a05e2dfa295625b67bfa2ca8d798fa044192a34e690dca5b6f77b5dbfee6
+  trace_generation_time: 1719521685.005642
+  trace_name: trojan.ipamor/backdoor2
+  trace_uri: traces/virussign.com_14e0b624dacc9b6a0a713312c807e677.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 25
+    value: trojan
+  - count: 2
+    value: virus
+- binary_date: 1717743119.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 66db75dd98f54d2fab4ea810a36954700198c432183fcca6018734b0b4b90da8
+  trace_generation_time: 1719521748.1819806
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_293460f4d64e9556d179e5b86fd29e83.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 31
+    suspicious: 0
+    undetected: 41
+  vt_popular_threat_category:
+  - count: 8
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717619139.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: c33465496a570080056b9cd768f1cdbc8e62eae6bbc4ff32a0235ceb26cbd4c7
+  trace_generation_time: 1719521718.045819
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_1ff94a0d0dc88d5b227089584126a13c.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 28
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 3
+    value: downloader
+- binary_date: 1382121226.0
+  bytes: 2212
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 16
+  sha256: 63ffdf52618eba701130e68b665f14d46e5228626352e89e2339a51fad5e1767
+  trace_generation_time: 1719521978.2432134
+  trace_name: adware.downware/somoto
+  trace_uri: traces/virussign.com_501e52f6daa9e48fe7c1104db2b09891.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 21
+    suspicious: 0
+    undetected: 52
+  vt_popular_threat_category:
+  - count: 8
+    value: adware
+  - count: 2
+    value: virus
+- binary_date: 1717994826.0
+  bytes: 29945
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 95
+  sha256: fc42d1bccc449ed8368c2e1e3e37830bfaad0357c39c5c095c927653c83b73b9
+  trace_generation_time: 1719522117.3559384
+  trace_name: trojan.vbkrypt/barys
+  trace_uri: traces/virussign.com_835c3658c1e99621940a6a4a6a4b1fcc.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 68
+    suspicious: 0
+    undetected: 5
+  vt_popular_threat_category:
+  - count: 32
+    value: trojan
+- binary_date: 1718031736.0
+  bytes: 3301797
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 3005
+  sha256: 974c55b6b59982ab904513d0aa98073406cb91f5cf7194432239f1a448d0ac6c
+  trace_generation_time: 1719521957.6591032
+  trace_name: miner.xmrminer/xmrig
+  trace_uri: traces/virussign.com_47bc1e9398f5138b60799873970702e2.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 10
+  vt_popular_threat_category:
+  - count: 27
+    value: miner
+  - count: 25
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717728120.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 21
+  sha256: 9db0c724729a00a2c72dea6ea1253311591ba0f7711b326693b2312320d95409
+  trace_generation_time: 1719522023.0194533
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_5e8ff0dec4309d5f89bd8976c04ccbe5.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 28
+    suspicious: 0
+    undetected: 45
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717981669.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: cf53bbd5592c8ac5d661a58f5f70c7d0c5c8eace64bbc344562c82cbd6d022db
+  trace_generation_time: 1719521784.106173
+  trace_name: trojan.zusy/dnuoc
+  trace_uri: traces/virussign.com_349536675358cc9a1f54e4cc0179f48c.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 49
+    suspicious: 0
+    undetected: 23
+  vt_popular_threat_category:
+  - count: 18
+    value: trojan
+  - count: 13
+    value: downloader
+- binary_date: 0
+  bytes: 852757
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 491
+  sha256: b8f2037d914e51ce1f06252261d801a4ece712009252d270b39978c591d79b3e
+  trace_generation_time: 1719521755.8620217
+  trace_name: Unknown
+  trace_uri: traces/virussign.com_2bda610f472ac7e4f8e7beec2a291958.pcap
+- binary_date: 1717738565.0
+  bytes: 844
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 10
+  sha256: d4963ddce27f06654195e4a988b5d2c4adc2d483e05c5c7345c1bd92a1033d3b
+  trace_generation_time: 1719521744.929963
+  trace_name: trojan.agentb/bvip
+  trace_uri: traces/virussign.com_27e231d4af0cb1e59fb167a64fdf3377.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 63
+    suspicious: 0
+    undetected: 10
+  vt_popular_threat_category:
+  - count: 32
+    value: trojan
+- binary_date: 1717971006.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 21
+  sha256: baf8b4537369e66f09f2935036f8ec8e8caa27e64432e78d951b0ee78f5ae26c
+  trace_generation_time: 1719521959.5271132
+  trace_name: trojan.zusy/owtar
+  trace_uri: traces/virussign.com_4879394b44cad8a0e7852a5a2b9d8181.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 38
+    suspicious: 0
+    undetected: 34
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717616871.0
+  bytes: 844
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 10
+  sha256: 6f4194aa64f2cab0fab9f5ceec720ade92de409b444b43df479aecdfc893c832
+  trace_generation_time: 1719522006.7473662
+  trace_name: trojan.agentb/bvip
+  trace_uri: traces/virussign.com_59ce013ca8b5d7cfddfa91c61b1ce64a.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 30
+    value: trojan
+- binary_date: 1717689195.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 0eb6db3af646fadc75e109035658a4e93a53dd1ef0072776861da4b84315d8a8
+  trace_generation_time: 1719521710.4777784
+  trace_name: trojan.zusy/aoxkj
+  trace_uri: traces/virussign.com_1d0c766e79c849b3698849e326a6a536.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 16
+    value: downloader
+- binary_date: 1717727558.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 0e4e8200fae62ed63f75942ddb2eb6f9a6d8af50dac144135335571562f8f535
+  trace_generation_time: 1719521746.4299712
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_28a5769220e306bf92d9b27979f74c3d.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 27
+    suspicious: 0
+    undetected: 45
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717965132.0
+  bytes: 508
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 4
+  sha256: 27fd17c477fd83bdb7ffc67ae0b854da58498b9c88a460df7384266c21025699
+  trace_generation_time: 1719521673.9375825
+  trace_name: trojan.pincav/muldrop3
+  trace_uri: traces/virussign.com_10a65b8c834909302f109a60e6b35232.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 58
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 31
+    value: trojan
+  - count: 9
+    value: downloader
+  - count: 4
+    value: dropper
+- binary_date: 1717903667.0
+  bytes: 6624
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 50
+  sha256: ab32825d0a6bc38297c4cfee0127e0463efe90c07886fb676378f0f4e2b7df27
+  trace_generation_time: 1719521733.533902
+  trace_name: trojan.vbkrypt/manbat
+  trace_uri: traces/virussign.com_24166ef23c2bb725628d4bb8b3f023b3.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 62
+    suspicious: 0
+    undetected: 9
+  vt_popular_threat_category:
+  - count: 27
+    value: trojan
+  - count: 4
+    value: dropper
+  - count: 2
+    value: pua
+- binary_date: 1717707205.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 282aa9cac772110702dc48cb8070567b566b3171dde3783be103415e4c0d203c
+  trace_generation_time: 1719521645.7174313
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_07b02e8643350b16da7b19c85dc0abf9.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 27
+    suspicious: 0
+    undetected: 46
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717916157.0
+  bytes: 4312983
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 1818
+  sha256: 98bc5cb457b0317a53371d28c654df04d9be34bd3ad046dc23cfbc5926d975c8
+  trace_generation_time: 1719521717.3898156
+  trace_name: trojan.zusy/vmprotect
+  trace_uri: traces/virussign.com_1fabee4ecd2adb81748a4f3d487bbfdd.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 41
+    suspicious: 0
+    undetected: 31
+  vt_popular_threat_category:
+  - count: 11
+    value: trojan
+  - count: 2
+    value: downloader
+- binary_date: 1717749677.0
+  bytes: 16481
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 113
+  sha256: cb68cdd6ef1e647dcd35170b07da913f8f8d0074ca8f30f017f6c8d91e19e975
+  trace_generation_time: 1719521782.8381662
+  trace_name: trojan.dorifel/dacic
+  trace_uri: traces/virussign.com_345cf7fa3167af5c01568cb1063d0dc1.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717984509.0
+  bytes: 2095
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 19
+  sha256: e5108c12c9155fecd9f7f26aef194535825ac8b9e201b0a707c20e113db22666
+  trace_generation_time: 1719521668.5535536
+  trace_name: trojan.zusy/r03bc0df724
+  trace_uri: traces/virussign.com_0ea8a1ae392a83ade879343333dc19c5.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 40
+    suspicious: 0
+    undetected: 32
+  vt_popular_threat_category:
+  - count: 14
+    value: trojan
+  - count: 8
+    value: downloader
+- binary_date: 1717935937.0
+  bytes: 12572
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 64
+  sha256: a43536321273b636a145ee8936d163c35070c071b43cebe953832ef75cd59a0e
+  trace_generation_time: 1719521783.922172
+  trace_name: trojan.shiz/tdss
+  trace_uri: traces/virussign.com_348f1bddc47cc1989207664e14469692.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 64
+    suspicious: 0
+    undetected: 8
+  vt_popular_threat_category:
+  - count: 27
+    value: trojan
+  - count: 2
+    value: pua
+- binary_date: 1717968940.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 3961343fb67d2abdead3858b9ed5eaf8b150028dcad87ded0721c71f79117413
+  trace_generation_time: 1719521700.6497257
+  trace_name: trojan.zusy/pvgey
+  trace_uri: traces/virussign.com_1a0fafa20dcd53e49838de732f6cce0f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 38
+    suspicious: 0
+    undetected: 34
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717880283.0
+  bytes: 2812
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 34
+  sha256: 725bf1da62d003978d39d47f05d247e3eba32d41b45ce44ff74167b50b30bf72
+  trace_generation_time: 1719521693.2816863
+  trace_name: trojan.mansabo/banload
+  trace_uri: traces/virussign.com_17897c031467bac179553f2d2634eb39.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 13
+  vt_popular_threat_category:
+  - count: 24
+    value: trojan
+  - count: 15
+    value: miner
+  - count: 3
+    value: pua
+- binary_date: 1717700956.0
+  bytes: 2095
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 19
+  sha256: fc24a7ca77d1225575670dd451c5ddcd8c03f0643accf845de6377b331e29e19
+  trace_generation_time: 1719521785.4941804
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_35289a529081beba43dfeedbc2f53537.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 28
+    suspicious: 0
+    undetected: 45
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717482682.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 690d1ab7283493efb6af9b237bab1928a87923fbbb6e5b73b91664bbcd0222be
+  trace_generation_time: 1719521639.9494004
+  trace_name: trojan.zusy/avvnw
+  trace_uri: traces/virussign.com_0522ae744209afe0062f0f44e5784c4f.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 43
+    suspicious: 0
+    undetected: 29
+  vt_popular_threat_category:
+  - count: 12
+    value: trojan
+  - count: 9
+    value: downloader
+- binary_date: 1717994524.0
+  bytes: 7741
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 61
+  sha256: 27daa5e4ca86aaecd14778b03a325fdd8fcecf9ed5b68f52cbdd9b5b9d72a940
+  trace_generation_time: 1719521767.9860866
+  trace_name: trojan.dacic/deepscan
+  trace_uri: traces/virussign.com_2f054f66d1ca438921c9354087048bb1.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 54
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717904014.0
+  bytes: 8959
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 71
+  sha256: 8554e854a5cc39f3337b86e1e8401c9750e14bf906e635c0e311b84d0f2f5d4a
+  trace_generation_time: 1719521766.162077
+  trace_name: trojan.dacic/deepscan
+  trace_uri: traces/virussign.com_2e9cc5641d66a485a671b8d1963e3637.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 53
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 19
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717895535.0
+  bytes: 19867
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 102
+  sha256: d2f07b05e290442daf825e7152665b3d4d8461174ff67558a4853adfa8f824b3
+  trace_generation_time: 1719521782.2021627
+  trace_name: trojan.snojan/corewarrior
+  trace_uri: traces/virussign.com_33dc80de597c79c27e4e8d06b4c2bbfa.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 16
+    value: trojan
+  - count: 2
+    value: banker
+  - count: 2
+    value: downloader
+- binary_date: 1717728754.0
+  bytes: 25121701
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 51076
+  sha256: c6bfebe37a26065aff3c1968d43e4429869d1eb81924626d09996a8a10f0e820
+  trace_generation_time: 1719522302.1647499
+  trace_name: trojan.mydoom/memscan
+  trace_uri: traces/virussign.com_f8eccc57ffe899afc847df932b4a8d96.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 58
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 14
+    value: trojan
+  - count: 4
+    value: worm
+  - count: 2
+    value: banker
+- binary_date: 1717928384.0
+  bytes: 2360
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 24
+  sha256: 9c5f05cce58227a009aa25402e9ed9a87bfcae86a5cc368dffd7ee7dc8dab30b
+  trace_generation_time: 1719522289.9806962
+  trace_name: trojan.lolbot/r03bc0cf724
+  trace_uri: traces/virussign.com_f1758467057cd6ec466a98f2508246ef.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 33
+    value: trojan
+- binary_date: 1717792575.0
+  bytes: 17239
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 84
+  sha256: 4e230182cffdfca4e92e5e8134a3355c7699e18cfb7c10926e0a2e25950a5c7c
+  trace_generation_time: 1719521704.9057486
+  trace_name: trojan.snojan/corewarrior
+  trace_uri: traces/virussign.com_1b55e952ce659da106e3776877e0a07e.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 14
+    value: trojan
+  - count: 2
+    value: banker
+  - count: 2
+    value: downloader
+- binary_date: 1717903137.0
+  bytes: 5510
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 38
+  sha256: 9c37643da30136bc1875e290b756c06e97127c654657ef7ce56c94a345bb9501
+  trace_generation_time: 1719521968.1511593
+  trace_name: trojan.enigma/strictor
+  trace_uri: traces/virussign.com_4bad45eb05c29dc080e416c508dff1f2.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 16
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 3
+    value: virus
+- binary_date: 1717710500.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 54990e90b0d13fcf1ccb27f38e56fab8b49450854e52b4c9a0ebadc43a37ea6d
+  trace_generation_time: 1719521722.3738422
+  trace_name: trojan.zusy/ozjgs
+  trace_uri: traces/virussign.com_20dd977c85d3584667150d9aa0282c2f.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 17
+    value: downloader
+- binary_date: 1717916934.0
+  bytes: 844
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 10
+  sha256: 19a5e6c68e184b50ab244b6cb01e054cad19d9445ee0dccbde8dd985d58babc1
+  trace_generation_time: 1719521638.365392
+  trace_name: trojan.agentb/dacic
+  trace_uri: traces/virussign.com_04a16747ea6e480b0a8c0ae1c1e87944.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 63
+    suspicious: 0
+    undetected: 9
+  vt_popular_threat_category:
+  - count: 26
+    value: trojan
+- binary_date: 1717925669.0
+  bytes: 4200115
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2653
+  sha256: a27e7f5dd1a63c9bbf2ab3f416bc54cee7c14b578a4f2405b6a4420cdc0ff3a8
+  trace_generation_time: 1719521645.085428
+  trace_name: miner.xmrminer
+  trace_uri: traces/virussign.com_078611755d10e68c06739a0faf9845e7.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 24
+    value: miner
+  - count: 22
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717953942.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 479f4f943402645df74b9026577d980815cafc32a2a89156034c99d56d9a5182
+  trace_generation_time: 1719521770.4340997
+  trace_name: trojan.zusy/mqxuo
+  trace_uri: traces/virussign.com_2fc549feeadac3cce0202c4dd4392872.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 40
+    suspicious: 0
+    undetected: 32
+  vt_popular_threat_category:
+  - count: 14
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717793885.0
+  bytes: 14065
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 75
+  sha256: 41dc89884ce13db44d52623449e20f29c3e6329b4ecf855cca303fb67c2a75fa
+  trace_generation_time: 1719522028.2914815
+  trace_name: trojan.snojan/corewarrior
+  trace_uri: traces/virussign.com_60fb266e80901f5f6a0a08d4d8115b5f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 53
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 2
+    value: banker
+  - count: 2
+    value: downloader
+- binary_date: 0
+  bytes: 5348099
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 30320
+  sha256: 7fa786cd9fa512f21274ceb0eadd105e5dab626f9f92a1b29bad806163c30bca
+  trace_generation_time: 1719522060.7676556
+  trace_name: Unknown
+  trace_uri: traces/virussign.com_6e1ad628df7d07e1d5dc127dfddd217b.vir.pcap
+- binary_date: 1717899016.0
+  bytes: 33795
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 62
+  sha256: 6d232d989bfc89d1e0149d14acbd41d0893cf6675e439d01717219c0fb82e295
+  trace_generation_time: 1719521785.0981784
+  trace_name: trojan.deepscan/dialer
+  trace_uri: traces/virussign.com_350b41738c2f84c946f8d4966156c4a3.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 13
+  vt_popular_threat_category:
+  - count: 17
+    value: trojan
+  - count: 15
+    value: downloader
+- binary_date: 1717918560.0
+  bytes: 524
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 4
+  sha256: 26bd5f0fde481fd551f48d127e3e59235f1cdb4c69a946a8bdf5ccd51f545a9f
+  trace_generation_time: 1719522248.1565123
+  trace_name: trojan.deepscan/dialer
+  trace_uri: traces/virussign.com_d6767e2f18c6653fd981434d023e89f5.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 62
+    suspicious: 0
+    undetected: 10
+  vt_popular_threat_category:
+  - count: 24
+    value: trojan
+  - count: 16
+    value: downloader
+- binary_date: 1717900975.0
+  bytes: 3058
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 37
+  sha256: f07d89e3b9b3f2a2fd906aaf0f6a6dcb19610268c3848414856c9edaf7ff9364
+  trace_generation_time: 1719522010.663387
+  trace_name: trojan.mansabo/banload
+  trace_uri: traces/virussign.com_5ac9099233fab2ce3e3f220bb8cc207b.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 25
+    value: trojan
+  - count: 14
+    value: miner
+  - count: 3
+    value: dropper
+- binary_date: 1717743738.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 005e20df881cf50f42a894dfe9a04c81e631e0fd8814b7e7276770d1a849559b
+  trace_generation_time: 1719521700.2417235
+  trace_name: trojan.zusy/jidct
+  trace_uri: traces/virussign.com_197b0b6dcdc30e30bc2f9a4334308b56.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 47
+    suspicious: 0
+    undetected: 24
+  vt_popular_threat_category:
+  - count: 18
+    value: trojan
+  - count: 12
+    value: downloader
+- binary_date: 1718015683.0
+  bytes: 8695130
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 4525
+  sha256: 3abdd44ff1d1dd26c50439e95919c68d3881492fa70319bfb1c474669bc96ba9
+  trace_generation_time: 1719521728.2898738
+  trace_name: adware.yandex/bundleinstaller
+  trace_uri: traces/virussign.com_224c1f61f4503f60531ad82cb1a0df0c.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 19
+    suspicious: 0
+    undetected: 52
+  vt_popular_threat_category:
+  - count: 4
+    value: adware
+- binary_date: 1717965368.0
+  bytes: 83502
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 81
+  sha256: a27f38bd6903f72397d6751bb6bbcdb36a47b3441efebd4cead8c98b73ea6e9a
+  trace_generation_time: 1719521691.1376748
+  trace_name: trojan.zbot/generickdv
+  trace_uri: traces/virussign.com_16180aa170cec30487594b1cf2d1bf6d.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 66
+    suspicious: 0
+    undetected: 6
+  vt_popular_threat_category:
+  - count: 35
+    value: trojan
+  - count: 9
+    value: downloader
+- binary_date: 1717793129.0
+  bytes: 4246891
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2987
+  sha256: a61cc4c08486fbf89c9e2f4db28a5d4ae36505fc9d5fbd552303d8a7911f9fd3
+  trace_generation_time: 1719521633.9653683
+  trace_name: miner.dacic/deepscan
+  trace_uri: traces/virussign.com_02e322d114a81984386da6de9c9fb068.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 30
+    value: miner
+  - count: 12
+    value: trojan
+  - count: 5
+    value: pua
+- binary_date: 1717817333.0
+  bytes: 3072
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 24
+  sha256: ae344d8525f5b3f6623979fc6be783623dde9668dac2a6895ba81f08c9b123fb
+  trace_generation_time: 1719521731.9178934
+  trace_name: trojan.dacic/mewsspy
+  trace_uri: traces/virussign.com_2375dbbc9973e7df9c7d2fee077d58fb.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 23
+    value: trojan
+- binary_date: 1717931547.0
+  bytes: 13178
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 103
+  sha256: 64c3c7031378a9de8a44404823f524b54b1ac2a9d7d882016fbde5793b35c2b9
+  trace_generation_time: 1719521711.0897818
+  trace_name: trojan.dacic/deepscan
+  trace_uri: traces/virussign.com_1d35cc36ab1b16fc493324a6a9d6883e.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717894511.0
+  bytes: 87841
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 666
+  sha256: 1ea789fbc75581165149b62f9a2fecb944aa4c5d27a54e8d0ff7830ee67a225c
+  trace_generation_time: 1719522001.4713378
+  trace_name: trojan.hupigon/aaah
+  trace_uri: traces/virussign.com_57dacd4863c9e7509e85a57dece31b6e.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 64
+    suspicious: 0
+    undetected: 7
+  vt_popular_threat_category:
+  - count: 35
+    value: trojan
+  - count: 4
+    value: dropper
+- binary_date: 1717902607.0
+  bytes: 4901
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 63
+  sha256: c26dd8fda497d1db213e4e20009b20707c008ef36c88934e3db19b5230810754
+  trace_generation_time: 1719521722.909845
+  trace_name: worm.autoit/sohanad
+  trace_uri: traces/virussign.com_20f85ec09a12be38db35a305fae825a8.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 23
+    value: worm
+  - count: 9
+    value: trojan
+  - count: 3
+    value: dropper
+- binary_date: 1717953397.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: e14e1ea69520c4287551adee0cb87a6d6fbf803b89a79bbf4c66711d02af63e4
+  trace_generation_time: 1719521675.0615885
+  trace_name: trojan.zusy/r03bc0df724
+  trace_uri: traces/virussign.com_112c14d5733f9de2759bf2e07b564287.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 42
+    suspicious: 0
+    undetected: 30
+  vt_popular_threat_category:
+  - count: 14
+    value: trojan
+  - count: 8
+    value: downloader
+- binary_date: 1717882970.0
+  bytes: 671405
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 1936
+  sha256: e91a1d8bdbb540245a6d3e32e8ac78b59ddad5a0d3d1455840bd712e68c5f144
+  trace_generation_time: 1719521704.1097443
+  trace_name: virus.expiro/moiva
+  trace_uri: traces/virussign.com_1b0c81f4b50ab1eab3e869e977bf39f3.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 15
+    value: virus
+  - count: 4
+    value: trojan
+- binary_date: 1717704189.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 24
+  sha256: c1be36b91862f8a699584d115c75d1cf824b3a554192e916ce0b8bf3e796e671
+  trace_generation_time: 1719521909.5108452
+  trace_name: trojan.zusy/sdum
+  trace_uri: traces/virussign.com_377862e974180af0a1b7dc8fe337c315.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 18
+    value: downloader
+- binary_date: 1717879252.0
+  bytes: 3850655
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 2883
+  sha256: 50d410652e3f5c363e5307fff14ce20a2da425ef176dc8fd5b7ef9bf3d44e400
+  trace_generation_time: 1719522057.6156387
+  trace_name: miner.xmrminer
+  trace_uri: traces/virussign.com_6c95907ed8b9212dd596f2c91d1d9444.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 16
+  vt_popular_threat_category:
+  - count: 23
+    value: miner
+  - count: 21
+    value: trojan
+  - count: 2
+    value: hacktool
+- binary_date: 1717701220.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 23
+  sha256: 14723b18a47705de01ca1ff23fb55562ae26ffc8d87523f03404f9b96d473bdd
+  trace_generation_time: 1719521922.6829157
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_3b9b27ddaddda15e173cd4673202f7c6.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 27
+    suspicious: 0
+    undetected: 46
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717672870.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 20
+  sha256: 2d42c3e2a01a9239da05b9ab2b9f01f770a47916d7ee630cfee9f2d9e3168e57
+  trace_generation_time: 1719521652.2294662
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_09fb44a0d18f6ff119a2af104e7b880c.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 24
+    suspicious: 0
+    undetected: 49
+  vt_popular_threat_category:
+  - count: 4
+    value: trojan
+  - count: 3
+    value: downloader
+- binary_date: 1717900252.0
+  bytes: 822
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 6
+  sha256: c9caa2ffc7b71f191ddb860adea763eddf4027544ddbe8e8bbd196bd27123cdb
+  trace_generation_time: 1719521927.1749396
+  trace_name: trojan.pincav/download
+  trace_uri: traces/virussign.com_3d62db160f04cd36720a26559b8f4682.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 33
+    value: trojan
+  - count: 7
+    value: downloader
+  - count: 3
+    value: dropper
+- binary_date: 1717996593.0
+  bytes: 922
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 6
+  sha256: 84442431d2aac3750d0a5b088e97eb6f4026ca7621913307b38d0629d474ae8a
+  trace_generation_time: 1719521708.7817693
+  trace_name: trojan.daws/decap
+  trace_uri: traces/virussign.com_1c90147b97fb537ab088c631c03cf0bc.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 64
+    suspicious: 0
+    undetected: 8
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717727180.0
+  bytes: 7402
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 97
+  sha256: c2045c31a1bc15db738e53113824b46d420c4a1594dbbafbc32233acf35416c7
+  trace_generation_time: 1719521667.6295488
+  trace_name: trojan.swrort/cryptz
+  trace_uri: traces/virussign.com_0e58dc7bbf12d1ef55b911d89d3ad3e2.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 13
+  vt_popular_threat_category:
+  - count: 31
+    value: trojan
+  - count: 2
+    value: hacktool
+  - count: 2
+    value: virus
+- binary_date: 1717881661.0
+  bytes: 1200869
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 3662
+  sha256: 680f23bea02566b1de8a4e109597cbe73b744183c47c4dfa74e5ccb0c10ad933
+  trace_generation_time: 1719522245.584501
+  trace_name: virus.expiro/moiva
+  trace_uri: traces/virussign.com_d552ff7028d3c15606ce6b3e5375d3fd.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 52
+    suspicious: 0
+    undetected: 20
+  vt_popular_threat_category:
+  - count: 16
+    value: virus
+  - count: 3
+    value: trojan
+- binary_date: 1717902665.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 65c8ad05e0336e0363bd7277d8ec6e51714afefa4f483b78b9fea1df51ead4c5
+  trace_generation_time: 1719521731.5578914
+  trace_name: trojan.zusy/lqpij
+  trace_uri: traces/virussign.com_2369052902ded3bf2d34cd87ea777c77.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 42
+    suspicious: 0
+    undetected: 30
+  vt_popular_threat_category:
+  - count: 15
+    value: trojan
+  - count: 8
+    value: downloader
+- binary_date: 1717903107.0
+  bytes: 8806
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 97
+  sha256: 12242256a764b699419dccf1a0afc3ea337ff4f2a79d5f4dc094e6f5c4c0a29b
+  trace_generation_time: 1719521948.7150552
+  trace_name: trojan.farfli/palevo
+  trace_uri: traces/virussign.com_4485bb92e752fff7277d4e3420d6f4bd.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 19
+    value: trojan
+  - count: 5
+    value: worm
+- binary_date: 1717591025.0
+  bytes: 2095
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 19
+  sha256: b8deee4655c46408bb0d52a8bd726aa58ba4546cd4c3d79e9237966dde3cacac
+  trace_generation_time: 1719522086.1597915
+  trace_name: trojan.zusy/lesgj
+  trace_uri: traces/virussign.com_7823acb9a34d8a5b42080d6cae7d8d29.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 18
+    value: downloader
+- binary_date: 1717786326.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 206171460c3526fb2c3fbdcaf5559dd29468839d1567973cd6d554ad515057ca
+  trace_generation_time: 1719521762.98606
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_2d82c4c4740ef8807d239e3abe372166.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 30
+    suspicious: 0
+    undetected: 42
+  vt_popular_threat_category:
+  - count: 8
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717702840.0
+  bytes: 2207441
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 17353
+  sha256: 985d15242f7b03ad9c91dd69863cf19df75ed38dfecdb02e3df900a49f8e5dc8
+  trace_generation_time: 1719521690.605672
+  trace_name: trojan.marte/rebma
+  trace_uri: traces/virussign.com_1604b726b2662575c3ece2e0f73b7f22.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 47
+    suspicious: 0
+    undetected: 25
+  vt_popular_threat_category:
+  - count: 27
+    value: trojan
+- binary_date: 1717807849.0
+  bytes: 1235651
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 3798
+  sha256: 19c1dfbef15a12f20d1b05f34fd05f82178000bc99b0ec0f2f54538aca7c934e
+  trace_generation_time: 1719522170.19217
+  trace_name: virus.expiro/moiva
+  trace_uri: traces/virussign.com_a4ff440d4d470cd00ae315a0968ec83a.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 53
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 17
+    value: virus
+  - count: 3
+    value: trojan
+- binary_date: 1717787292.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 58b78003396c5cdd198c08e4bdc8dbf9479b61d65a4f1b1e07d950f624c56d32
+  trace_generation_time: 1719521737.3059223
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_2573586a43bce5af1c1859e7ce3b8ab3.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 33
+    suspicious: 0
+    undetected: 39
+  vt_popular_threat_category:
+  - count: 9
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717730792.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 24
+  sha256: 25b0571c94d4f40e674dd561016b478485f6267238d2dcbfcc91c1468054276e
+  trace_generation_time: 1719522052.5996118
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_6ac99c73e98269c937246a51f9754ccc.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 28
+    suspicious: 0
+    undetected: 45
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717735508.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 23
+  sha256: eb1f889637f6befa0c5f068d037ad8c9fc7376363f609a33bc9d116da19b9b7d
+  trace_generation_time: 1719522001.679339
+  trace_name: trojan.zusy/quzva
+  trace_uri: traces/virussign.com_5804edbdbb8ba927545470d3a50f25f9.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 52
+    suspicious: 0
+    undetected: 20
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 16
+    value: downloader
+- binary_date: 1717789603.0
+  bytes: 844
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 10
+  sha256: e34dae04c6e2cb5cd0d27d5be7e69583bfa79833f47ab7f023e5b0077d2b2bd0
+  trace_generation_time: 1719521981.8512328
+  trace_name: trojan.agentb/bvip
+  trace_uri: traces/virussign.com_521bcbc50f3a6c9f357337132a2626c6.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 29
+    value: trojan
+- binary_date: 1717893638.0
+  bytes: 1341
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 10
+  sha256: e9ddb563edba91f87912dc21364c2fae0666d4c388e16416d4c56c054c80ef49
+  trace_generation_time: 1719521660.2535093
+  trace_name: trojan.vobfus/jorik
+  trace_uri: traces/virussign.com_0b1a34fe11910cf942edd9a2ed670713.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 23
+    value: trojan
+  - count: 6
+    value: worm
+- binary_date: 1717916932.0
+  bytes: 844
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 10
+  sha256: 66bde7f9732db408e8398764915337a7ed37c73b47b07fd350ec720df0a1587f
+  trace_generation_time: 1719521754.3340135
+  trace_name: trojan.agentb/bvip
+  trace_uri: traces/virussign.com_2aeb47451c625e41958f070e5ce07981.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 63
+    suspicious: 0
+    undetected: 9
+  vt_popular_threat_category:
+  - count: 32
+    value: trojan
+- binary_date: 1717727404.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 828f9f607e2569ed0014652d9e3d2b0854238ea81e9f7ab866a89c18cec1e040
+  trace_generation_time: 1719521630.7253509
+  trace_name: trojan.zusy/cerbu
+  trace_uri: traces/virussign.com_0202d802ccf2eb7cf58a4a2839703d6f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 24
+    value: trojan
+  - count: 19
+    value: downloader
+- binary_date: 1717738094.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 24
+  sha256: ce811eda259c0e162b8f586dbf1e22755bc2222f14ed2451a8818e2eba15be67
+  trace_generation_time: 1719522089.8958116
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_79ab5f84df8c136866564dc92b14979b.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 30
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 8
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717693172.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 24
+  sha256: d5742cd3bdf8753f61d88b52f6fb2094f187490d504a4d0988df85a9f6361609
+  trace_generation_time: 1719521784.3301742
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_34a218422f6030d0b4de93151bf8b4ed.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717927040.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 9d0714a5318f4cf26b1498c2294dda93583abdf2c9eb37027cffc7b7521c1635
+  trace_generation_time: 1719521635.8333783
+  trace_name: trojan.zusy/nvjol
+  trace_uri: traces/virussign.com_03cbb5377c704dd354f9eb277323de51.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 39
+    suspicious: 0
+    undetected: 29
+  vt_popular_threat_category:
+  - count: 12
+    value: trojan
+  - count: 8
+    value: downloader
+- binary_date: 1717965132.0
+  bytes: 17882
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 42
+  sha256: 27fd17c477fd83bdb7ffc67ae0b854da58498b9c88a460df7384266c21025699
+  trace_generation_time: 1719521674.3175845
+  trace_name: trojan.pincav/muldrop3
+  trace_uri: traces/virussign.com_10a65b8c834909302f109a60e6b35232.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 58
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 31
+    value: trojan
+  - count: 9
+    value: downloader
+  - count: 4
+    value: dropper
+- binary_date: 1717952436.0
+  bytes: 49292
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 586
+  sha256: 41418ba257c718d3e04166402ae09fd22b2ec6611abf01f66fef1c1d01cc67a0
+  trace_generation_time: 1719521694.7896943
+  trace_name: trojan.msil/krypt
+  trace_uri: traces/virussign.com_17e29d4867a27fa612e1d02715a2b7c2.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 48
+    suspicious: 0
+    undetected: 23
+  vt_popular_threat_category:
+  - count: 15
+    value: trojan
+  - count: 2
+    value: dropper
+- binary_date: 0
+  bytes: 856153
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 509
+  sha256: b8f2037d914e51ce1f06252261d801a4ece712009252d270b39978c591d79b3e
+  trace_generation_time: 1719521756.2860239
+  trace_name: Unknown
+  trace_uri: traces/virussign.com_2bda610f472ac7e4f8e7beec2a291958.vir.pcap
+- binary_date: 1717792705.0
+  bytes: 21481
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 107
+  sha256: 3e07a6816cf1ecb51ffb5e40e006aceb9cbab3c12dbfa6c0a1ae9ddf9d5a9684
+  trace_generation_time: 1719521637.853389
+  trace_name: trojan.snojan/corewarrior
+  trace_uri: traces/virussign.com_0486f4450b6603d39807713165208506.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 53
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 14
+    value: trojan
+  - count: 2
+    value: banker
+  - count: 2
+    value: downloader
+- binary_date: 1717740987.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 537a86fb9d8337fc010c01635c5aecd7babe6d0aa732c2f8a991b068ee81e5a4
+  trace_generation_time: 1719521661.2175143
+  trace_name: trojan.zusy/sdum
+  trace_uri: traces/virussign.com_0b84ffc66c90e3d70d895934844720a4.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 53
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 17
+    value: downloader
+- binary_date: 1717856168.0
+  bytes: 100
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 1
+  sha256: 6a61b451fe7f264c40b684ed8da46ab2e1e0bdb9d09555725c6299f1a3c34a3a
+  trace_generation_time: 1719521988.2072668
+  trace_name: trojan.ipamor/backdoor2
+  trace_uri: traces/virussign.com_54813c6fe129f486d04f1e2e179543aa.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 17
+    value: trojan
+  - count: 9
+    value: virus
+  - count: 3
+    value: banker
+- binary_date: 1717734313.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 24
+  sha256: 4a4a57d198b632ee8c37578064ad166ec8dbe7b573b981d632112f560b806536
+  trace_generation_time: 1719521757.2660291
+  trace_name: trojan.zusy/r002c0df724
+  trace_uri: traces/virussign.com_2c0d4d170c2efb66c68363941709c3f2.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 19
+    value: trojan
+  - count: 16
+    value: downloader
+- binary_date: 1717881979.0
+  bytes: 3007539
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 1527
+  sha256: f20d7e98e701f4d277c210a301c3bcfeea6e9bb340a5b046a1d5805b78bfbc97
+  trace_generation_time: 1719521686.0736475
+  trace_name: pua.connectwise
+  trace_uri: traces/virussign.com_15237cbcb5055cab14dd2bb76214c8c0.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 18
+    suspicious: 0
+    undetected: 53
+  vt_popular_threat_category:
+  - count: 4
+    value: pua
+  - count: 3
+    value: hacktool
+- binary_date: 1717895743.0
+  bytes: 3737625
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2569
+  sha256: 85cd1be45482fcdcd2dd8a53bf388e647b012182dd60cd6bdbf73817347bfc7d
+  trace_generation_time: 1719521729.4618802
+  trace_name: miner.dacic/deepscan
+  trace_uri: traces/virussign.com_2321a01e66aaebbe9c7b8239efe69d2b.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 29
+    value: miner
+  - count: 12
+    value: trojan
+  - count: 5
+    value: pua
+- binary_date: 1717738800.0
+  bytes: 278
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 2
+  sha256: d73a3b09d892a9f437be96f45435245f6fbed3d03543a5a8c1799b28077d5e33
+  trace_generation_time: 1719521938.0269978
+  trace_name: downloader.symmi/adload
+  trace_uri: traces/virussign.com_41c6010810c969d1479034e630646674.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 31
+    suspicious: 0
+    undetected: 41
+  vt_popular_threat_category:
+  - count: 8
+    value: downloader
+  - count: 8
+    value: trojan
+- binary_date: 1717963172.0
+  bytes: 1145295
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 3607
+  sha256: 049a0e3bfd3ac4fe045f78abfc24d73ca2e8ee0fb1286f01744d31e7b8f301a3
+  trace_generation_time: 1719521640.817405
+  trace_name: virus.expiro/moiva
+  trace_uri: traces/virussign.com_055d029b8d504af812b3f03b7c265fd2.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 16
+    value: virus
+  - count: 3
+    value: trojan
+- binary_date: 1717723434.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 24
+  sha256: f62b6c4efc16ac56587d681852c7ded49a327cb301627ed1609744386f7be3e0
+  trace_generation_time: 1719521724.1498518
+  trace_name: trojan.zusy/sdum
+  trace_uri: traces/virussign.com_216d80648c6cd9d6de886c62328f13da.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 30
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717789473.0
+  bytes: 12368
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 122
+  sha256: dbc81451d7798b4b3dfba15695c379718d88d706ec7ed3ba078f97f1b11afcae
+  trace_generation_time: 1719521716.1578088
+  trace_name: trojan.shiz/emotet
+  trace_uri: traces/virussign.com_1f56b917e5d5ba25232a21320b986902.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 26
+    value: trojan
+- binary_date: 1717740743.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 7fd6937178e6823583199729b49aa09c7192c505030d1957e91cdc7ff0a14380
+  trace_generation_time: 1719521735.00591
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_247ee4be8b2fffdff31966afff922b72.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717996860.0
+  bytes: 98884
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 208
+  sha256: 5472d190b8dcc39e66924e4914a84e9372d25b474e288455233153a1dff2032f
+  trace_generation_time: 1719522188.7322512
+  trace_name: adware.domaiq/bundler
+  trace_uri: traces/virussign.com_b0c7cece70e2e49e234f55b512cc7f5a.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 13
+  vt_popular_threat_category:
+  - count: 15
+    value: adware
+  - count: 5
+    value: downloader
+  - count: 5
+    value: trojan
+- binary_date: 1717730939.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 22
+  sha256: 72ddbe7621d9e1a80b3658ea0bc106bfdd4e89ad600ffa531cb412e17a667ae3
+  trace_generation_time: 1719521983.0952394
+  trace_name: downloader.zusy
+  trace_uri: traces/virussign.com_527e31c440f474af6a9c55b0aa6d75bc.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 26
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 3
+    value: downloader
+  - count: 2
+    value: trojan
+- binary_date: 1717784246.0
+  bytes: 1742
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 13
+  sha256: 26c58d3320fd558ac77777cbb126e0dd4f18ba2d49808f4ceeb556a8a152fbb8
+  trace_generation_time: 1719521658.4374995
+  trace_name: trojan.vbkrypt/midie
+  trace_uri: traces/virussign.com_0b066ea2495550e99b39d8fe7a813f8e.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 25
+    value: trojan
+  - count: 2
+    value: dropper
+  - count: 2
+    value: pua
+- binary_date: 1717743624.0
+  bytes: 2640
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 24
+  sha256: 47b925dee6f094b630235c4455d12f36c5a6661fa421c79819d5ee971efdda3b
+  trace_generation_time: 1719521970.0591695
+  trace_name: trojan.zusy/putki
+  trace_uri: traces/virussign.com_4c4fccc29854d92b64761d5a5e242847.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 18
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 18
+    value: downloader
+- binary_date: 1717953381.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 79edd1e4ad633c4816793e87b6459e8cbbcfa1efa072b9e8347be886f03dedd6
+  trace_generation_time: 1719521772.1061087
+  trace_name: trojan.zusy/llegt
+  trace_uri: traces/virussign.com_30758504298b9ad676f1bbaed4bd718d.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 40
+    suspicious: 0
+    undetected: 32
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 8
+    value: downloader
+- binary_date: 1717786647.0
+  bytes: 1228034
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 1010
+  sha256: 34727a710b06f6550bb57dde4204985bab4e83d78622106b408391ab27e3a604
+  trace_generation_time: 1719522276.036635
+  trace_name: trojan.botgor/burn
+  trace_uri: traces/virussign.com_e90eb2a13bc4f37328c5015c24e9b18f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 62
+    suspicious: 0
+    undetected: 9
+  vt_popular_threat_category:
+  - count: 26
+    value: trojan
+  - count: 8
+    value: worm
+- binary_date: 1717050894.0
+  bytes: 720017
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 5384
+  sha256: d6ca49c8d12da1e75e651ac95f20a25cdd33cdbefa5e52a23b5a9a42499fd9a7
+  trace_generation_time: 1719522186.20424
+  trace_name: trojan.mewsspy/symmi
+  trace_uri: traces/virussign.com_aeaf2c55d04f9b793c2a4b1176fbc070.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 26
+    value: trojan
+- binary_date: 1717896310.0
+  bytes: 654
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 5
+  sha256: dff91da14e05a1515cab04bc552d5d1415862c50360d421ea1953c121676d5ae
+  trace_generation_time: 1719522143.984055
+  trace_name: trojan.deepscan/dialer
+  trace_uri: traces/virussign.com_93ad6143f7812029782a7654d15b65be.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 11
+  vt_popular_threat_category:
+  - count: 22
+    value: trojan
+  - count: 16
+    value: downloader
+- binary_date: 1717986785.0
+  bytes: 9884
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 74
+  sha256: 2c072c67966c347916ac0337d5d518f9b2a860f4e84104e63b03a9bee5d25b74
+  trace_generation_time: 1719521763.730064
+  trace_name: trojan.dorifel/dacic
+  trace_uri: traces/virussign.com_2dbf38bcd8bd12441e9f9c19df342cc0.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 59
+    suspicious: 0
+    undetected: 13
+  vt_popular_threat_category:
+  - count: 23
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717732156.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 20
+  sha256: 21698c8a798373b7f042baa6de46f7d5fc48bae9f5d548a185062d6863d1f263
+  trace_generation_time: 1719521767.0740817
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_2ed62b82d191f7883103055df3d95cbf.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 28
+    suspicious: 0
+    undetected: 45
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717908692.0
+  bytes: 106
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 1
+  sha256: e56cdd4e9b2061fcf084942e9fa4d1f6c884d311ce8ad9c4123d801b7a959e93
+  trace_generation_time: 1719522096.1838453
+  trace_name: trojan.mansabo/banload
+  trace_uri: traces/virussign.com_7c8d7dc2fbb5f2847f0cc46fef1203f0.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 58
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 25
+    value: trojan
+  - count: 12
+    value: miner
+  - count: 3
+    value: dropper
+- binary_date: 1717930275.0
+  bytes: 7483
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 61
+  sha256: 6777b4e59a0cfa5aac6a58c64f0c97afc2dd1f4fa7ba2da5f7129287773a3155
+  trace_generation_time: 1719521639.0333955
+  trace_name: trojan.dacic/deepscan
+  trace_uri: traces/virussign.com_04d5d43d852193c3a6aa9519a5662459.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 16
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717893051.0
+  bytes: 18639
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 88
+  sha256: 6fd7fb17d78746e54c9f1f4b737c623503d8e5a45bcc8347d5bfcfb5e740f499
+  trace_generation_time: 1719521668.9415557
+  trace_name: trojan.snojan/corewarrior
+  trace_uri: traces/virussign.com_0ef8e846275149b25999d97f24511d28.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 57
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 16
+    value: trojan
+  - count: 2
+    value: banker
+  - count: 2
+    value: downloader
+- binary_date: 1717739886.0
+  bytes: 30405
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 99
+  sha256: 366b5c903c465f954ea27c0e8e930d4e0e2e6df28ec4f1fd038632233c8fecbd
+  trace_generation_time: 1719521637.045385
+  trace_name: trojan.msil/snakestealer
+  trace_uri: traces/virussign.com_0451f8d2d0162106004e683ef1390d0a.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 58
+    suspicious: 0
+    undetected: 15
+  vt_popular_threat_category:
+  - count: 31
+    value: trojan
+  - count: 2
+    value: spyware
+- binary_date: 1717953656.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: bcd69069a6d13b034e2d962cc58d29ccfd96a65cd5552b016c5ed7981181b263
+  trace_generation_time: 1719521688.6536615
+  trace_name: trojan.zusy/gjgch
+  trace_uri: traces/virussign.com_159f0f011220a9036f2429db906106af.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 38
+    suspicious: 0
+    undetected: 34
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717748225.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 23
+  sha256: 34ab62e7d4494bb580e2699355ca0f0887633d3e17056c2af2e830960b4b54e6
+  trace_generation_time: 1719521989.6352744
+  trace_name: trojan.zusy/r002c0df724
+  trace_uri: traces/virussign.com_55069df815a2ff2ed0f7b07371765a18.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 47
+    suspicious: 0
+    undetected: 25
+  vt_popular_threat_category:
+  - count: 18
+    value: trojan
+  - count: 11
+    value: downloader
+- binary_date: 1717699619.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 7f47fbd4d9ecf5c74a1e52799dba221439757e6a37d3aa38b55dade36249aecc
+  trace_generation_time: 1719521643.4574192
+  trace_name: trojan.zusy/r002c0df624
+  trace_uri: traces/virussign.com_0677410daa36c84d86c6a85ca1711118.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 19
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 17
+    value: downloader
+- binary_date: 1717752493.0
+  bytes: 2730
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 33
+  sha256: eb13caec5ccaaaac5aa5e2f9586b736fe7189187fa36932f97075b72c3ba464f
+  trace_generation_time: 1719521771.1061034
+  trace_name: miner.banload/abipe
+  trace_uri: traces/virussign.com_301f4dbb8291f1d653c0c912cbf9b1a8.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 62
+    suspicious: 0
+    undetected: 10
+  vt_popular_threat_category:
+  - count: 21
+    value: miner
+  - count: 21
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717904156.0
+  bytes: 7744
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 87
+  sha256: deba6bb60c4df449a6011bb7f4ff9158b70a051527431feec270ba0af54c869c
+  trace_generation_time: 1719521688.4896605
+  trace_name: trojan.farfli/palevo
+  trace_uri: traces/virussign.com_1595219c7ee9a2ff8346d911c3d3cba4.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 29
+    value: trojan
+  - count: 3
+    value: worm
+  - count: 2
+    value: dropper
+- binary_date: 1717953381.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 20
+  sha256: 79edd1e4ad633c4816793e87b6459e8cbbcfa1efa072b9e8347be886f03dedd6
+  trace_generation_time: 1719521772.33411
+  trace_name: trojan.zusy/llegt
+  trace_uri: traces/virussign.com_30758504298b9ad676f1bbaed4bd718d.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 40
+    suspicious: 0
+    undetected: 32
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 8
+    value: downloader
+- binary_date: 1717681845.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: e92ec3f9243648f66ea9168b7e0e599022a198ec7cf98f13220f5c304a6363ed
+  trace_generation_time: 1719521661.5895164
+  trace_name: downloader.zusy
+  trace_uri: traces/virussign.com_0bba56537258e112d8ddef6c9a8a793b.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 26
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 4
+    value: downloader
+  - count: 3
+    value: trojan
+- binary_date: 1717966879.0
+  bytes: 2749
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 25
+  sha256: 42ecef404ddf260b392fc416eb60ed51ee1ae6a92f03fbfae07cfa5546533b09
+  trace_generation_time: 1719521998.11932
+  trace_name: trojan.zusy/gsktj
+  trace_uri: traces/virussign.com_57b67d4d58343826d89587a570080131.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 38
+    suspicious: 0
+    undetected: 34
+  vt_popular_threat_category:
+  - count: 13
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717882358.0
+  bytes: 3278698
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2115
+  sha256: e5de8fb37994e84ac74a3e2f61321d65ad8d184915568ae359802444d75ca456
+  trace_generation_time: 1719521719.0898247
+  trace_name: miner.dacic/deepscan
+  trace_uri: traces/virussign.com_200a5de85728898a7f13b7d6542e4815.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 61
+    suspicious: 0
+    undetected: 10
+  vt_popular_threat_category:
+  - count: 29
+    value: miner
+  - count: 13
+    value: trojan
+  - count: 5
+    value: pua
+- binary_date: 1717704349.0
+  bytes: 10022
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 98
+  sha256: e44f40713ab33675545d4d0ba01c5aa0c3f16926ad2f958d7d543156b047b98e
+  trace_generation_time: 1719521626.6773293
+  trace_name: trojan.shiz/emotet
+  trace_uri: traces/virussign.com_00f28fc0f3b5a30751a2624ecbec7b1d.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 57
+    suspicious: 0
+    undetected: 16
+  vt_popular_threat_category:
+  - count: 26
+    value: trojan
+  - count: 2
+    value: dropper
+- binary_date: 1717801109.0
+  bytes: 80939
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.55
+  infected_mac_address: 00:50:56:8c:9d:9e
+  packets: 117
+  sha256: fc16fb413e724e1062fa1834242b4e401a205f4e670e8160dea6009817504ef1
+  trace_generation_time: 1719522047.3955839
+  trace_name: trojan.injuke/vidar
+  trace_uri: traces/virussign.com_6853c792f9e49611166fad1423170e3a.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 36
+    value: trojan
+- binary_date: 1717722687.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 20
+  sha256: ead6c1a954f90e02f9ad94e7f7f89ec924e02145fb89158c0603b2e598821f3c
+  trace_generation_time: 1719521695.2016966
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_17ea8a2ec5e915897e71dc50b3f8c381.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 27
+    suspicious: 0
+    undetected: 46
+  vt_popular_threat_category:
+  - count: 5
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717900978.0
+  bytes: 520
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 4
+  sha256: 5b8998edb16a5bc481cb9708ac37dfe22d627bc3b9760c04a1208d4dc8ac0f23
+  trace_generation_time: 1719521748.3979816
+  trace_name: trojan.pincav/download
+  trace_uri: traces/virussign.com_294d7cf7e47bd0d75f1965503b77588b.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 60
+    suspicious: 0
+    undetected: 12
+  vt_popular_threat_category:
+  - count: 33
+    value: trojan
+  - count: 7
+    value: downloader
+  - count: 3
+    value: dropper
+- binary_date: 1717482682.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 690d1ab7283493efb6af9b237bab1928a87923fbbb6e5b73b91664bbcd0222be
+  trace_generation_time: 1719521640.3454025
+  trace_name: trojan.zusy/avvnw
+  trace_uri: traces/virussign.com_0522ae744209afe0062f0f44e5784c4f.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 43
+    suspicious: 0
+    undetected: 29
+  vt_popular_threat_category:
+  - count: 12
+    value: trojan
+  - count: 9
+    value: downloader
+- binary_date: 1717793535.0
+  bytes: 4375728
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 3000
+  sha256: aef74033d259df049593377b8be21ed1ee88e2425881526c003df97557dcf0a0
+  trace_generation_time: 1719521639.357397
+  trace_name: miner.dacic/deepscan
+  trace_uri: traces/virussign.com_04f49b1fdb3e7ba99a6621ddbfd19dfe.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 58
+    suspicious: 0
+    undetected: 14
+  vt_popular_threat_category:
+  - count: 28
+    value: miner
+  - count: 11
+    value: trojan
+  - count: 4
+    value: pua
+- binary_date: 1717935932.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: d579e4996f74b5aec46907035effd92364ccb75edaee8d1bb79192db590953e6
+  trace_generation_time: 1719521747.0659745
+  trace_name: trojan.zusy/pufzq
+  trace_uri: traces/virussign.com_28cdcdc5c6c6b489d9d35f09918e468a.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 35
+    suspicious: 0
+    undetected: 37
+  vt_popular_threat_category:
+  - count: 9
+    value: trojan
+  - count: 6
+    value: downloader
+- binary_date: 1717710134.0
+  bytes: 434
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 5
+  sha256: 4b62ee1fe7289d74fedebd1f57c308708d3d30c0cbf002b8f305d81c803bfabe
+  trace_generation_time: 1719521696.5337036
+  trace_name: trojan.atraps
+  trace_uri: traces/virussign.com_17f6a15006b8bdda1df4eb5c2606f6db.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 18
+    suspicious: 0
+    undetected: 54
+  vt_popular_threat_category:
+  - count: 4
+    value: trojan
+- binary_date: 1717706498.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 22
+  sha256: 9c6ea7af8eb2b8f3fd59670a772cb3b8151e6b7736888f7e8fcd92d73544a000
+  trace_generation_time: 1719522106.499891
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_7fcb618ba5a59a5c7f67ceeade530544.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 28
+    suspicious: 0
+    undetected: 45
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717737855.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: 1e613873cba5342b9f9f9c2425e2ded634f1936346e11f5d2889dd18f7aa30a9
+  trace_generation_time: 1719521662.4975212
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_0c2180dbf81085f182355387768443b1.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 29
+    suspicious: 0
+    undetected: 44
+  vt_popular_threat_category:
+  - count: 7
+    value: trojan
+  - count: 5
+    value: downloader
+- binary_date: 1717620374.0
+  bytes: 2422
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 22
+  sha256: f02db32a74e5de8d14812849a6ae8b219b63c6b4088964191a55953852fd7d09
+  trace_generation_time: 1719521690.24167
+  trace_name: trojan.zusy/sdum
+  trace_uri: traces/virussign.com_15fe27d450941374b39a0c69bdb7aec3.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 31
+    suspicious: 0
+    undetected: 42
+  vt_popular_threat_category:
+  - count: 8
+    value: trojan
+  - count: 3
+    value: downloader
+- binary_date: 1717681183.0
+  bytes: 299
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.56
+  infected_mac_address: 00:50:56:8c:a6:4b
+  packets: 2
+  sha256: 0b7dcaa4967fc42dc44c93f216cdc6219c1894abc89d58862f1d5360ed3fd8d4
+  trace_generation_time: 1719522120.7799535
+  trace_name: trojan.nsis/addrop
+  trace_uri: traces/virussign.com_8508113fd09ba10ffdaa2acb672b9dbe.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 28
+    suspicious: 0
+    undetected: 45
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 3
+    value: adware
+  - count: 3
+    value: downloader
+- binary_date: 1717971057.0
+  bytes: 1986
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 18
+  sha256: 776a58fff57ffda18cf27dd51a571c33791aa8752566cb10a1bda6ba8752e563
+  trace_generation_time: 1719521670.313563
+  trace_name: trojan.zusy/r03bc0df724
+  trace_uri: traces/virussign.com_0fa4e6454b8531346ef14d9c1bdcb5a9.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 40
+    suspicious: 0
+    undetected: 32
+  vt_popular_threat_category:
+  - count: 12
+    value: trojan
+  - count: 7
+    value: downloader
+- binary_date: 1717698054.0
+  bytes: 2531
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 23
+  sha256: 792688943e6de331584e6af38d96367867977bca9b4ad81fbe491c841fc10ef3
+  trace_generation_time: 1719521742.48195
+  trace_name: trojan.zusy/irrzx
+  trace_uri: traces/virussign.com_275d88c748726e2d084dafd58ccc9904.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 22
+    value: trojan
+  - count: 18
+    value: downloader
+- binary_date: 1717998158.0
+  bytes: 9347
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.57
+  infected_mac_address: 00:50:56:8c:6f:c9
+  packets: 65
+  sha256: c8cf82ad6d001caead1d7dab865e1c73255418a54e75830aef64a5f9eb3fa12d
+  trace_generation_time: 1719522195.992283
+  trace_name: trojan.dacic/deepscan
+  trace_uri: traces/virussign.com_b2afd2faa795387f394941c0a32b701c.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 55
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 21
+    value: trojan
+  - count: 7
+    value: dropper
+- binary_date: 1717998692.0
+  bytes: 2074
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 25
+  sha256: c9c02999f418aca84594ef95c5238260e6d8a31e89486a6156922e7ac02c4cd2
+  trace_generation_time: 1719521765.5540736
+  trace_name: miner.banload/abipe
+  trace_uri: traces/virussign.com_2e5272a5e7f78d948e838334a8f8df25.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 63
+    suspicious: 0
+    undetected: 9
+  vt_popular_threat_category:
+  - count: 21
+    value: miner
+  - count: 21
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717893331.0
+  bytes: 957335
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 2680
+  sha256: 221d0f5dbb384d664aeed50d44cc458197654951fb6a7e0710992e78abf34d40
+  trace_generation_time: 1719521668.3695526
+  trace_name: virus.expiro/moiva
+  trace_uri: traces/virussign.com_0e9a98c29fb496ad60106333ccb2d378.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 53
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 17
+    value: virus
+  - count: 3
+    value: trojan
+- binary_date: 1717693622.0
+  bytes: 2313
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 21
+  sha256: 50737112dd02a5b86d457404e15fbcc87bfb7c5ba76cfb1da46c35ecf6ae3bf0
+  trace_generation_time: 1719521787.4261909
+  trace_name: trojan.zusy
+  trace_uri: traces/virussign.com_35d5ff0e50af879b500e694c9ba57073.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 30
+    suspicious: 0
+    undetected: 43
+  vt_popular_threat_category:
+  - count: 6
+    value: trojan
+  - count: 4
+    value: downloader
+- binary_date: 1717704198.0
+  bytes: 2204
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 20
+  sha256: 6c9070a21cf40e83e434e33ff83207ed27caf4281785287d619b7651b301c81c
+  trace_generation_time: 1719521664.2655306
+  trace_name: trojan.zusy/nydoq
+  trace_uri: traces/virussign.com_0cbc2c028f3e17d3f647106c16c13c02.vir.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 56
+    suspicious: 0
+    undetected: 17
+  vt_popular_threat_category:
+  - count: 20
+    value: trojan
+  - count: 18
+    value: downloader
+- binary_date: 1717733102.0
+  bytes: 11491510
+  description: VirusSign Collection 2024.06.09
+  gateway_ip_address: 192.168.1.1
+  gateway_mac_address: 00:50:56:8c:16:64
+  infected_ip_address: 192.168.1.59
+  infected_mac_address: 00:50:56:8c:6e:c0
+  packets: 14554
+  sha256: 320ced58c2d1d91b50ab6afce376cd311695ccd8582a84be664cb3777f8e3ab6
+  trace_generation_time: 1719521654.7454796
+  trace_name: trojan.vtflooder/razy
+  trace_uri: traces/virussign.com_0ad4e91187d84f6e6f7e64459257ded4.pcap
+  vt_last_analysis_stats:
+    harmless: 0
+    malicious: 68
+    suspicious: 0
+    undetected: 5
+  vt_popular_threat_category:
+  - count: 35
+    value: trojan
+  - count: 4
+    value: downloader
